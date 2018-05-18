@@ -781,3 +781,659 @@ LogInit: Object subsystem initialized
 [2018.05.18-00.29.54:100][166]LogSavePackage: Save=220.43ms
 [2018.05.18-00.29.54:100][166]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_BuiltDataDD1A299E44BF764CE1772CB3EF62AFA7.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.05.18-00.29.54:101][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.18-00.31.34:385][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.18-00.31.43:370][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.33.20:063][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-00.33.46:759][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-00.33.48:293][146]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.33.48:293][146]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.33.48:293][146]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.36.40:567][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.37.56:857][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-00.37.58:665][988]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.37.58:665][988]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.37.58:665][988]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.38.03:296][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.18-00.38.07:102][105]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.38.07:102][105]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.38.07:102][105]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.05.18-00.38.16:256][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.39.31:155][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.40.58:571][722]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d05bf29550, Size=16
+[2018.05.18-00.40.58:571][722]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d052d69210, Size=16
+[2018.05.18-00.40.58:720][722]LogSavePackage: Save=130.19ms
+[2018.05.18-00.40.58:720][722]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto4B8BC196543312081E3DB4390B1B56E5B.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.05.18-00.40.58:722][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.05.18-00.40.58:725][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.189
+[2018.05.18-00.40.58:725][722]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.189
+[2018.05.18-00.40.58:727][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/arvores/apple] ([1] browsable assets)...
+[2018.05.18-00.40.58:787][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/arvores/apple.apple]
+[2018.05.18-00.40.58:787][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/arvores/apple]
+[2018.05.18-00.40.58:787][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.05.18-00.40.58:830][722]LogSavePackage: Save=30.77ms
+[2018.05.18-00.40.58:830][722]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/apple_Auto4F95EEE624D3FCEC16E99CCAC4E9A434D.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple_Auto4.uasset'
+[2018.05.18-00.40.58:831][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple_Auto4.uasset
+[2018.05.18-00.40.58:831][722]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.05.18-00.47.27:688][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b50b1f30, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.47.41:965][720]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b50b1f30, Size=4
+[2018.05.18-00.47.41:965][720]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d07bcd7598, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_108:ExecuteUbergraph_apple
+[2018.05.18-00.47.41:967][720]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d07bcd7650, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.47.45:371][929]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d07bcd7650, Size=4
+[2018.05.18-00.47.45:371][929]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b50b2d28, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_110:ExecuteUbergraph_apple
+[2018.05.18-00.47.45:374][929]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b50b1310, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.47.47:514][101]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b50b1310, Size=4
+[2018.05.18-00.47.47:514][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b50b1310, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_112:ExecuteUbergraph_apple
+[2018.05.18-00.47.47:516][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b50b37f8, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.49.58:388][866]LogSlate: Window 'Selecionar Classe Pai' being destroyed
+[2018.05.18-00.50.18:950][ 62]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b50b1310, Size=4
+[2018.05.18-00.50.18:950][ 62]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b50b2d28, Size=4
+[2018.05.18-00.50.18:950][ 62]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d07bcd7598, Size=4
+[2018.05.18-00.50.18:952][ 62]LogMetaData: Removing '/Game/arvores/maca.maca:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/arvores/NewBlueprint.PackageMetaData'
+[2018.05.18-00.50.18:952][ 62]LogMetaData: Removing '/Game/arvores/maca.SKEL_maca_C' ref from Metadata '/Game/arvores/NewBlueprint.PackageMetaData'
+[2018.05.18-00.50.18:952][ 62]LogMetaData: Removing '/Game/arvores/maca.maca_C' ref from Metadata '/Game/arvores/NewBlueprint.PackageMetaData'
+[2018.05.18-00.50.18:952][ 62]LogMetaData: Removing '/Game/arvores/maca.maca:EventGraph.K2Node_Event_0' ref from Metadata '/Game/arvores/NewBlueprint.PackageMetaData'
+[2018.05.18-00.50.18:952][ 62]LogMetaData: Removing '/Game/arvores/maca.maca:EventGraph.K2Node_Event_1' ref from Metadata '/Game/arvores/NewBlueprint.PackageMetaData'
+[2018.05.18-00.50.18:952][ 62]LogMetaData: Removing '/Game/arvores/maca.maca:EventGraph.K2Node_Event_2' ref from Metadata '/Game/arvores/NewBlueprint.PackageMetaData'
+[2018.05.18-00.50.18:995][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/maca" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/maca.uasset" SILENT=true
+[2018.05.18-00.50.19:007][ 62]LogSavePackage: Save=10.85ms
+[2018.05.18-00.50.19:008][ 62]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/maca6C91D95640D398880B809DA74480EAB2.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/maca.uasset'
+[2018.05.18-00.50.19:010][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/maca.uasset
+[2018.05.18-00.50.31:124][155]LogMetaData: Removing '/Game/arvores/avore.avore_C' ref from Metadata '/Game/arvores/maca.PackageMetaData'
+[2018.05.18-00.50.31:124][155]LogMetaData: Removing '/Game/arvores/avore.SKEL_avore_C' ref from Metadata '/Game/arvores/maca.PackageMetaData'
+[2018.05.18-00.50.31:124][155]LogMetaData: Removing '/Game/arvores/avore.avore:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/arvores/maca.PackageMetaData'
+[2018.05.18-00.50.31:124][155]LogMetaData: Removing '/Game/arvores/avore.avore:EventGraph.K2Node_Event_0' ref from Metadata '/Game/arvores/maca.PackageMetaData'
+[2018.05.18-00.50.31:124][155]LogMetaData: Removing '/Game/arvores/avore.avore:EventGraph.K2Node_Event_1' ref from Metadata '/Game/arvores/maca.PackageMetaData'
+[2018.05.18-00.50.31:124][155]LogMetaData: Removing '/Game/arvores/avore.avore:EventGraph.K2Node_Event_2' ref from Metadata '/Game/arvores/maca.PackageMetaData'
+[2018.05.18-00.50.31:144][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/avore" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/avore.uasset" SILENT=true
+[2018.05.18-00.50.31:162][155]LogSavePackage: Save=14.60ms
+[2018.05.18-00.50.31:162][155]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/avore7907E4D541B0FD9B8CD99EB24657D634.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/avore.uasset'
+[2018.05.18-00.50.31:164][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/avore.uasset
+[2018.05.18-00.50.53:002][175]LogMetaData: Removing '/Game/arvores/tree.tree_C' ref from Metadata '/Game/arvores/avore.PackageMetaData'
+[2018.05.18-00.50.53:002][175]LogMetaData: Removing '/Game/arvores/tree.SKEL_tree_C' ref from Metadata '/Game/arvores/avore.PackageMetaData'
+[2018.05.18-00.50.53:002][175]LogMetaData: Removing '/Game/arvores/tree.tree:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/arvores/avore.PackageMetaData'
+[2018.05.18-00.50.53:002][175]LogMetaData: Removing '/Game/arvores/tree.tree:EventGraph.K2Node_Event_0' ref from Metadata '/Game/arvores/avore.PackageMetaData'
+[2018.05.18-00.50.53:002][175]LogMetaData: Removing '/Game/arvores/tree.tree:EventGraph.K2Node_Event_1' ref from Metadata '/Game/arvores/avore.PackageMetaData'
+[2018.05.18-00.50.53:002][175]LogMetaData: Removing '/Game/arvores/tree.tree:EventGraph.K2Node_Event_2' ref from Metadata '/Game/arvores/avore.PackageMetaData'
+[2018.05.18-00.50.53:017][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/tree" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset" SILENT=true
+[2018.05.18-00.50.53:029][175]LogSavePackage: Save=10.62ms
+[2018.05.18-00.50.53:029][175]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/treeCB29B4684CF28E60386CE8BB74A6D92E.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset'
+[2018.05.18-00.50.53:032][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset
+[2018.05.18-00.51.03:390][454]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.18-00.51.07:099][479]LogSlate: Window 'Selecionar Classe Pai' being destroyed
+[2018.05.18-00.51.59:085][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/tree" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset" SILENT=true
+[2018.05.18-00.51.59:120][146]LogSavePackage: Save=30.32ms
+[2018.05.18-00.51.59:120][146]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/tree4762978B431D5AF9EDE3FBBBF9EC9BBB.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset'
+[2018.05.18-00.51.59:138][146]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset
+[2018.05.18-00.52.05:303][234]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b50b37f8, Size=4
+[2018.05.18-00.52.05:303][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0a57c9940, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_136:ExecuteUbergraph_apple
+[2018.05.18-00.52.05:307][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0a57c9410, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.52.09:403][298]BlueprintLog: New page: Compilar apple
+[2018.05.18-00.52.09:409][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a57c9410, Size=4
+[2018.05.18-00.52.09:409][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0a57c9410, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_138:ExecuteUbergraph_apple
+[2018.05.18-00.52.09:415][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a3eb2500, Size=184
+[2018.05.18-00.52.09:415][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0a19ec640, Size=184, Default__apple_C Function /Engine/Transient.REINST_apple_C_140:ExecuteUbergraph_apple
+[2018.05.18-00.52.09:418][298]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d038954940, Size=184, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.52.09:763][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a57c9940, Size=4
+[2018.05.18-00.52.09:763][298]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a57c9410, Size=4
+[2018.05.18-00.52.10:958][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset" SILENT=true
+[2018.05.18-00.52.11:002][314]LogSavePackage: Save=29.57ms
+[2018.05.18-00.52.11:002][314]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/apple54123B334BEADD4153CF15B430EED4DB.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset'
+[2018.05.18-00.52.11:007][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset
+[2018.05.18-00.52.12:898][342]BlueprintLog: New page: Compilar tree
+[2018.05.18-00.52.13:160][342]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a19ec640, Size=184
+[2018.05.18-00.52.13:801][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/tree" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset" SILENT=true
+[2018.05.18-00.52.13:831][349]LogSavePackage: Save=19.88ms
+[2018.05.18-00.52.13:831][349]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/treeC85EA195411AB6C6E9F09BB382C9644C.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset'
+[2018.05.18-00.52.13:832][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset
+[2018.05.18-00.52.39:263][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.52.44:919][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.52.53:281][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.53.10:938][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.53.24:222][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.53.24:428][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/tree" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset" SILENT=true
+[2018.05.18-00.53.24:455][ 74]LogSavePackage: Save=21.02ms
+[2018.05.18-00.53.24:455][ 74]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/treeA1171E8C4777CBA7466C7582DB63A9D0.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset'
+[2018.05.18-00.53.24:458][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset
+[2018.05.18-00.53.29:898][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.53.35:342][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset" SILENT=true
+[2018.05.18-00.53.35:377][202]LogSavePackage: Save=30.04ms
+[2018.05.18-00.53.35:377][202]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/apple1437C0B54C9B7D47C97A268FB46213E2.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset'
+[2018.05.18-00.53.35:380][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset
+[2018.05.18-00.53.42:044][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.18-00.53.42:924][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.18-00.53.45:102][318]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.05.18-00.53.48:939][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.53.52:835][385]Cmd: SELECT NONE
+[2018.05.18-00.53.56:290][405]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree2)
+[2018.05.18-00.53.57:676][414]Cmd: DELETE
+[2018.05.18-00.53.57:676][414]Cmd: ACTOR DELETE
+[2018.05.18-00.53.57:694][414]LogEditorActor: Deleted Actor: tree_C
+[2018.05.18-00.53.57:845][414]LogEditorActor: Deleted 1 Actors (0.170 secs)
+[2018.05.18-00.53.58:550][419]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.05.18-00.53.59:334][424]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.05.18-00.53.59:574][424]Cmd: DELETE
+[2018.05.18-00.53.59:575][424]Cmd: ACTOR DELETE
+[2018.05.18-00.53.59:577][424]LogEditorActor: Deleted Actor: tree_C
+[2018.05.18-00.53.59:599][424]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.05.18-00.54.00:652][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.54.13:881][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.54.21:071][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/tree" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset" SILENT=true
+[2018.05.18-00.54.21:096][612]LogSavePackage: Save=20.59ms
+[2018.05.18-00.54.21:096][612]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/treeEC74C5054E97C416E857C188E01FBAB3.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset'
+[2018.05.18-00.54.21:099][612]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset
+[2018.05.18-00.54.47:449][929]LogEditorViewport: Clicking on Actor (LMB): apple_C (apple)
+[2018.05.18-00.54.55:249][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.55.03:967][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.55.19:021][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset" SILENT=true
+[2018.05.18-00.55.19:056][267]LogSavePackage: Save=30.07ms
+[2018.05.18-00.55.19:056][267]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/appleA5BA97B54D3BE7CD6E5B9D9B5242E582.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset'
+[2018.05.18-00.55.19:059][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset
+[2018.05.18-00.55.57:630][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.56.05:249][867]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-00.56.05:288][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-00.56.05:288][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.18-00.56.05:295][867]LogPlayLevel: [PlayLevel] Compiling apple before play...
+[2018.05.18-00.56.05:300][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d038954940, Size=184
+[2018.05.18-00.56.05:301][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0589c1840, Size=184, Default__apple_C Function /Engine/Transient.REINST_apple_C_148:ExecuteUbergraph_apple
+[2018.05.18-00.56.05:303][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0bebddcc0, Size=184, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.56.05:647][867]LogPlayLevel: [PlayLevel] Compiling tree before play...
+[2018.05.18-00.56.05:998][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0589c1840, Size=184
+[2018.05.18-00.56.05:999][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 710 ms (2 blueprints)
+[2018.05.18-00.56.05:999][867]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 18:56:05)
+[2018.05.18-00.56.05:999][867]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-00.56.06:013][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013620s)
+[2018.05.18-00.56.06:014][867]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-00.56.06:014][867]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2018.05.18-00.56.06:014][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014773s)
+[2018.05.18-00.56.06:038][867]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-00.56.06:049][867]LogInit: FAudioDevice initialized.
+[2018.05.18-00.56.06:082][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-00.56.06:085][867]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-21.56.06
+[2018.05.18-00.56.06:086][867]LogWorld: Bringing up level for play took: 0.002649
+[2018.05.18-00.56.06:087][867]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,242
+[2018.05.18-00.56.06:087][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-00.56.40:556][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-00.56.40:652][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-00.56.41:794][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.56.55:957][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-00.57.34:521][968]LogSavePackage: Save=131.56ms
+[2018.05.18-00.57.34:522][968]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto55A19007C496B20A3F010648EB7583FEA.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.05.18-00.57.34:523][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.05.18-00.57.34:525][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.175
+[2018.05.18-00.57.34:525][968]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2018.05.18-00.58.03:708][490]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.05.18-00.58.03:711][490]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0861b7ac0, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.58.39:908][357]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0861b7ac0, Size=4
+[2018.05.18-00.58.39:908][357]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3ebbc48, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_160:ExecuteUbergraph_apple
+[2018.05.18-00.58.39:910][357]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3ebbbd8, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.58.52:947][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3ebbbd8, Size=4
+[2018.05.18-00.58.52:947][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3c73ee0, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_162:ExecuteUbergraph_apple
+[2018.05.18-00.58.52:949][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3c70190, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-00.58.56:507][714]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3c70190, Size=4
+[2018.05.18-00.58.56:508][714]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0a57ca978, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_164:ExecuteUbergraph_apple
+[2018.05.18-00.58.56:510][714]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0a57c9060, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.00.37:609][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.01.06:056][344]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.06:056][344]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.06:056][344]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.06:056][344]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.17:350][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.01.17:664][479]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.17:664][479]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.17:664][479]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.17:664][479]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.05.18-01.01.21:569][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/tree" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset" SILENT=true
+[2018.05.18-01.01.21:603][526]LogSavePackage: Save=21.05ms
+[2018.05.18-01.01.21:603][526]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/tree525B3E354374CA850E3F65BF6E33A096.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset'
+[2018.05.18-01.01.21:606][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset
+[2018.05.18-01.02.14:684][849]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.02.14:690][849]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a57c9060, Size=4
+[2018.05.18-01.02.14:690][849]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7ade8b0, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_166:ExecuteUbergraph_apple
+[2018.05.18-01.02.14:696][849]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0bebddcc0, Size=184
+[2018.05.18-01.02.14:696][849]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0cf2df580, Size=184, Default__apple_C Function /Engine/Transient.REINST_apple_C_168:ExecuteUbergraph_apple
+[2018.05.18-01.02.14:699][849]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b5c86140, Size=184, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.02.15:120][849]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7ade8b0, Size=4
+[2018.05.18-01.02.15:120][849]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a57ca978, Size=4
+[2018.05.18-01.02.15:121][849]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3c73ee0, Size=4
+[2018.05.18-01.02.15:121][849]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3ebbc48, Size=4
+[2018.05.18-01.02.20:629][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.02.20:661][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.02.20:661][ 25]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.18-01.02.20:663][ 25]LogPlayLevel: [PlayLevel] Compiling tree before play...
+[2018.05.18-01.02.21:094][ 25]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0cf2df580, Size=184
+[2018.05.18-01.02.21:094][ 25]LogPlayLevel: PlayLevel: Blueprint regeneration took 433 ms (1 blueprints)
+[2018.05.18-01.02.21:095][ 25]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:02:21)
+[2018.05.18-01.02.21:095][ 25]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.02.21:109][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013709s)
+[2018.05.18-01.02.21:109][ 25]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.02.21:109][ 25]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.05.18-01.02.21:110][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014752s)
+[2018.05.18-01.02.21:131][ 25]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.02.21:142][ 25]LogInit: FAudioDevice initialized.
+[2018.05.18-01.02.21:173][ 25]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.02.21:176][ 25]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.02.21
+[2018.05.18-01.02.21:176][ 25]LogWorld: Bringing up level for play took: 0.002213
+[2018.05.18-01.02.21:177][ 25]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,333
+[2018.05.18-01.02.21:178][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.02.34:064][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.02.34:157][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.02.35:179][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.07.02:985][ 12]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.07.02:998][ 12]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b5c86140, Size=184
+[2018.05.18-01.07.02:998][ 12]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d030aeb400, Size=184, Default__apple_C Function /Engine/Transient.REINST_apple_C_176:ExecuteUbergraph_apple
+[2018.05.18-01.07.03:000][ 12]LogBlueprint: Error: [Compiler apple] This blueprint (self) is not a PhysicsHandleComponent, therefore ' Alvo ' must have a connection.
+[2018.05.18-01.07.03:001][ 12]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0558fb200, Size=208, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.07.03:117][ 12]LogBlueprint: Warning: [Compiler apple] [4448,50] Compile of apple failed. 1 Fatal Issue(s) 0 Warning(s) [in 131 ms] (/Game/arvores/apple.apple)
+[2018.05.18-01.07.53:514][209]LogSavePackage: Save=136.73ms
+[2018.05.18-01.07.53:514][209]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto6F8D00D5A478099DBD26DFDBDB7186BD0.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2018.05.18-01.07.53:516][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap
+[2018.05.18-01.07.53:518][209]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.179
+[2018.05.18-01.07.53:518][209]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.179
+[2018.05.18-01.07.53:521][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/arvores/apple] ([1] browsable assets)...
+[2018.05.18-01.07.53:581][209]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/arvores/apple.apple]
+[2018.05.18-01.07.53:581][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/arvores/apple]
+[2018.05.18-01.07.53:582][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.05.18-01.07.53:625][209]LogSavePackage: Save=32.43ms
+[2018.05.18-01.07.53:625][209]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/apple_Auto62ACEF897424636E0BF0387870A76546E.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple_Auto6.uasset'
+[2018.05.18-01.07.53:626][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple_Auto6.uasset
+[2018.05.18-01.07.53:626][209]LogFileHelpers: Auto-saving content packages took 0.106
+[2018.05.18-01.11.16:968][178]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.11.16:981][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0558fb200, Size=208
+[2018.05.18-01.11.16:981][178]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7c0f040, Size=208, apple_C_1342 Function /Engine/Transient.REINST_apple_C_184:ExecuteUbergraph_apple
+[2018.05.18-01.11.16:984][178]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d1a1ba00, Size=360, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.11.18:779][307]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.11.18:813][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.11.18:813][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.11.18:813][307]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:11:18)
+[2018.05.18-01.11.18:813][307]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.11.18:827][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013747s)
+[2018.05.18-01.11.18:828][307]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.11.18:828][307]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.05.18-01.11.18:828][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014858s)
+[2018.05.18-01.11.18:849][307]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.11.18:861][307]LogInit: FAudioDevice initialized.
+[2018.05.18-01.11.18:899][307]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.11.18:902][307]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.11.18
+[2018.05.18-01.11.18:902][307]LogWorld: Bringing up level for play took: 0.002604
+[2018.05.18-01.11.18:904][307]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,059
+[2018.05.18-01.11.18:904][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.11.26:972][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.11.26:992][403]LogSlate: Window 'RafaGirafa Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.05.18-01.11.27:032][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.11.30:517][568]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.11.30:537][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.11.30:537][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.11.30:537][568]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:11:30)
+[2018.05.18-01.11.30:537][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.11.30:551][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013260s)
+[2018.05.18-01.11.30:551][568]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.11.30:552][568]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.05.18-01.11.30:552][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014262s)
+[2018.05.18-01.11.30:574][568]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.11.30:584][568]LogInit: FAudioDevice initialized.
+[2018.05.18-01.11.30:617][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.11.30:620][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.11.30
+[2018.05.18-01.11.30:620][568]LogWorld: Bringing up level for play took: 0.002194
+[2018.05.18-01.11.30:621][568]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,223
+[2018.05.18-01.11.30:622][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.12.07:010][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.12.07:117][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.12.08:853][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.12.41:290][823]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.12.41:302][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d1a1ba00, Size=360
+[2018.05.18-01.12.41:302][823]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d0cbe380, Size=360, apple_C_1380 Function /Engine/Transient.REINST_apple_C_188:ExecuteUbergraph_apple
+[2018.05.18-01.12.41:305][823]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d9043700, Size=360, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.12.53:743][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.12.53:826][997]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.12.53:855][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.12.53:856][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.12.53:856][997]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:12:53)
+[2018.05.18-01.12.53:856][997]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.12.53:870][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013575s)
+[2018.05.18-01.12.53:870][997]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.12.53:870][997]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.05.18-01.12.53:870][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014539s)
+[2018.05.18-01.12.53:917][997]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.12.53:928][997]LogInit: FAudioDevice initialized.
+[2018.05.18-01.12.53:960][997]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.12.53:963][997]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.12.53
+[2018.05.18-01.12.53:963][997]LogWorld: Bringing up level for play took: 0.002350
+[2018.05.18-01.12.53:964][997]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,881
+[2018.05.18-01.12.53:964][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.13.06:063][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.13.06:159][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.13.14:052][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.13.29:361][388]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.05.18-01.13.34:026][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.17.29:134][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.05.18-01.17.39:096][605]Cmd: DELETE
+[2018.05.18-01.17.39:096][605]Cmd: ACTOR DELETE
+[2018.05.18-01.17.39:099][605]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.18-01.17.39:175][605]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2018.05.18-01.17.40:443][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.05.18-01.17.40:628][622]Cmd: DELETE
+[2018.05.18-01.17.40:628][622]Cmd: ACTOR DELETE
+[2018.05.18-01.17.40:630][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.18-01.17.40:653][622]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.05.18-01.17.41:266][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.05.18-01.17.44:864][672]Cmd: DELETE
+[2018.05.18-01.17.44:864][672]Cmd: ACTOR DELETE
+[2018.05.18-01.17.44:866][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.18-01.17.44:889][672]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.05.18-01.17.45:472][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.05.18-01.17.45:659][682]Cmd: DELETE
+[2018.05.18-01.17.45:659][682]Cmd: ACTOR DELETE
+[2018.05.18-01.17.45:661][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.18-01.17.45:687][682]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.05.18-01.17.46:529][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.05.18-01.17.46:679][693]Cmd: DELETE
+[2018.05.18-01.17.46:679][693]Cmd: ACTOR DELETE
+[2018.05.18-01.17.46:681][693]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.18-01.17.46:704][693]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.05.18-01.17.47:675][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.05.18-01.17.47:825][707]Cmd: DELETE
+[2018.05.18-01.17.47:825][707]Cmd: ACTOR DELETE
+[2018.05.18-01.17.47:827][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.18-01.17.47:852][707]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.05.18-01.17.51:066][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.17.51:429][750]LogSavePackage: Save=127.98ms
+[2018.05.18-01.17.51:429][750]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMapAF50AB3D4149EC649F4EBE92E6082C4C.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.18-01.17.51:436][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.18-01.17.51:757][750]LogSavePackage: Save=127.51ms
+[2018.05.18-01.17.51:757][750]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_BuiltDataB703073B4D9A46495C63FD91D83F3BB2.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.18-01.17.51:758][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.18-01.17.54:697][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.17.54:777][790]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.17.54:796][790]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.17.54:796][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.17.54:796][790]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:17:54)
+[2018.05.18-01.17.54:796][790]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.17.54:809][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013299s)
+[2018.05.18-01.17.54:810][790]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.17.54:810][790]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.05.18-01.17.54:810][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014267s)
+[2018.05.18-01.17.54:832][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d030aeb400, Size=184
+[2018.05.18-01.17.54:832][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d0cbe380, Size=360
+[2018.05.18-01.17.54:832][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7c0f040, Size=208
+[2018.05.18-01.17.54:863][790]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.17.54:875][790]LogInit: FAudioDevice initialized.
+[2018.05.18-01.17.54:905][790]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.17.54:908][790]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.17.54
+[2018.05.18-01.17.54:908][790]LogWorld: Bringing up level for play took: 0.002213
+[2018.05.18-01.17.54:909][790]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,065
+[2018.05.18-01.17.54:910][790]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.18.02:059][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.18.02:122][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.18.10:525][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.18-01.18.11:751][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.18-01.18.46:750][433]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2018.05.18-01.20.39:344][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.21.15:844][ 24]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.21.15:857][ 24]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d9043700, Size=360
+[2018.05.18-01.21.15:857][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c577c400, Size=360, Default__apple_C Function /Engine/Transient.REINST_apple_C_196:ExecuteUbergraph_apple
+[2018.05.18-01.21.15:859][ 24]LogBlueprint: Error: [Compiler apple] This blueprint (self) is not a SceneComponent, therefore ' Alvo ' must have a connection.
+[2018.05.18-01.21.15:860][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d054888a00, Size=360, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.21.15:984][ 24]LogBlueprint: Warning: [Compiler apple] [5301,37] Compile of apple failed. 1 Fatal Issue(s) 0 Warning(s) [in 138 ms] (/Game/arvores/apple.apple)
+[2018.05.18-01.21.41:620][109]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.21.41:633][109]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d054888a00, Size=360
+[2018.05.18-01.21.41:633][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b5c09000, Size=360, apple_C_1395 Function /Engine/Transient.REINST_apple_C_200:ExecuteUbergraph_apple
+[2018.05.18-01.21.41:636][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d14a0b80, Size=360, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.21.41:743][109]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c577c400, Size=360
+[2018.05.18-01.21.50:440][602]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.21.50:473][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.21.50:473][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.21.50:473][602]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:21:50)
+[2018.05.18-01.21.50:473][602]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.21.50:488][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014051s)
+[2018.05.18-01.21.50:488][602]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.21.50:489][602]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.05.18-01.21.50:489][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015202s)
+[2018.05.18-01.21.50:511][602]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b5c09000, Size=360
+[2018.05.18-01.21.50:514][602]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.21.50:525][602]LogInit: FAudioDevice initialized.
+[2018.05.18-01.21.50:555][602]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.21.50:558][602]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.21.50
+[2018.05.18-01.21.50:558][602]LogWorld: Bringing up level for play took: 0.002293
+[2018.05.18-01.21.50:559][602]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,286
+[2018.05.18-01.21.50:560][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.22.01:605][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.22.01:724][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.22.03:028][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.22.56:444][269]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.22.56:459][269]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d14a0b80, Size=360
+[2018.05.18-01.22.56:459][269]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c28fb400, Size=360, Default__apple_C Function /Engine/Transient.REINST_apple_C_204:ExecuteUbergraph_apple
+[2018.05.18-01.22.56:462][269]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0fd6e5300, Size=360, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.23.01:611][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.23.01:641][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.23.01:641][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.23.01:641][469]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:23:01)
+[2018.05.18-01.23.01:641][469]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.23.01:655][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013944s)
+[2018.05.18-01.23.01:656][469]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.23.01:656][469]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.05.18-01.23.01:656][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014841s)
+[2018.05.18-01.23.01:677][469]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c28fb400, Size=360
+[2018.05.18-01.23.01:702][469]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.23.01:712][469]LogInit: FAudioDevice initialized.
+[2018.05.18-01.23.01:742][469]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.23.01:744][469]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.23.01
+[2018.05.18-01.23.01:745][469]LogWorld: Bringing up level for play took: 0.002123
+[2018.05.18-01.23.01:746][469]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,901
+[2018.05.18-01.23.01:746][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.23.16:825][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.23.16:940][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.23.17:873][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.23.54:694][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset" SILENT=true
+[2018.05.18-01.23.54:741][787]LogSavePackage: Save=34.01ms
+[2018.05.18-01.23.54:741][787]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/apple4D98B0EE47F4E12BA7FDC98967BC1F33.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset'
+[2018.05.18-01.23.54:747][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset
+[2018.05.18-01.23.56:923][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/tree" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset" SILENT=true
+[2018.05.18-01.23.56:953][838]LogSavePackage: Save=20.50ms
+[2018.05.18-01.23.56:953][838]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/treeA463743C48FFB0DD073F078BDD507EF1.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset'
+[2018.05.18-01.23.56:955][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/tree.uasset
+[2018.05.18-01.23.58:936][935]LogSavePackage: Save=46.61ms
+[2018.05.18-01.23.58:936][935]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonCharacterBDB1C1974ACEC3CE417C3BB91BAEAD38.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.05.18-01.23.58:937][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.18-01.25.52:888][ 58]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d8412d20, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.26.05:867][137]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d8412d20, Size=4
+[2018.05.18-01.26.05:867][137]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adf530, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_208:ExecuteUbergraph_apple
+[2018.05.18-01.26.05:870][137]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adcf30, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.26.29:626][120]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.26.29:634][120]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adcf30, Size=4
+[2018.05.18-01.26.29:634][120]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3c70170, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_210:ExecuteUbergraph_apple
+[2018.05.18-01.26.29:642][120]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0fd6e5300, Size=360
+[2018.05.18-01.26.29:642][120]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7517280, Size=360, Default__apple_C Function /Engine/Transient.REINST_apple_C_212:ExecuteUbergraph_apple
+[2018.05.18-01.26.29:645][120]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0f6b3fa00, Size=360, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.26.29:993][120]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adf530, Size=4
+[2018.05.18-01.26.29:993][120]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3c70170, Size=4
+[2018.05.18-01.26.42:268][126]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3c730e0, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.26.44:079][270]LogEditorTransaction: Undo Add Pin
+[2018.05.18-01.26.44:099][270]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3c730e0, Size=4
+[2018.05.18-01.26.44:099][270]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adf108, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_216:ExecuteUbergraph_apple
+[2018.05.18-01.26.44:101][270]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adcf60, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.26.45:443][370]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adcf60, Size=4
+[2018.05.18-01.26.45:443][370]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adcf60, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_218:ExecuteUbergraph_apple
+[2018.05.18-01.26.45:446][370]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adf778, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.26.46:768][475]LogEditorTransaction: Undo Add Pin
+[2018.05.18-01.26.46:771][475]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adf778, Size=4
+[2018.05.18-01.26.46:771][475]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3c709a0, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_220:ExecuteUbergraph_apple
+[2018.05.18-01.26.46:773][475]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3c730a0, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.28.52:954][356]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.28.52:962][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3c730a0, Size=4
+[2018.05.18-01.28.52:962][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adf6a0, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_222:ExecuteUbergraph_apple
+[2018.05.18-01.28.52:970][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0f6b3fa00, Size=360
+[2018.05.18-01.28.52:970][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c5fb7700, Size=360, apple_C_1489 Function /Engine/Transient.REINST_apple_C_224:ExecuteUbergraph_apple
+[2018.05.18-01.28.52:973][356]LogBlueprint: Error: [Compiler apple] This blueprint (self) is not a SceneComponent, therefore ' Alvo ' must have a connection.
+[2018.05.18-01.28.52:974][356]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08ad3ae80, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.28.53:088][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adf6a0, Size=4
+[2018.05.18-01.28.53:088][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3c709a0, Size=4
+[2018.05.18-01.28.53:088][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adcf60, Size=4
+[2018.05.18-01.28.53:088][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adf108, Size=4
+[2018.05.18-01.28.53:102][356]LogBlueprint: Warning: [Compiler apple] [5758,49] Compile of apple failed. 1 Fatal Issue(s) 0 Warning(s) [in 148 ms] (/Game/arvores/apple.apple)
+[2018.05.18-01.29.03:762][216]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.29.03:778][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08ad3ae80, Size=528
+[2018.05.18-01.29.03:778][216]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0cb7dae80, Size=528, apple_C_1491 Function /Engine/Transient.REINST_apple_C_228:ExecuteUbergraph_apple
+[2018.05.18-01.29.03:782][216]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d0d58400, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.29.06:233][316]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.29.06:267][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.29.06:267][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.29.06:267][316]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:29:06)
+[2018.05.18-01.29.06:267][316]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.29.06:280][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012765s)
+[2018.05.18-01.29.06:281][316]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.29.06:281][316]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.05.18-01.29.06:281][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013744s)
+[2018.05.18-01.29.06:306][316]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0cb7dae80, Size=528
+[2018.05.18-01.29.06:326][316]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.29.06:340][316]LogInit: FAudioDevice initialized.
+[2018.05.18-01.29.06:370][316]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.29.06:373][316]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.29.06
+[2018.05.18-01.29.06:373][316]LogWorld: Bringing up level for play took: 0.002065
+[2018.05.18-01.29.06:374][316]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,471
+[2018.05.18-01.29.06:374][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.29.59:566][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.29.59:686][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.30.00:953][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.30.18:762][646]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.30.18:777][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d0d58400, Size=528
+[2018.05.18-01.30.18:777][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d03a5cf380, Size=528, apple_C_1505 Function /Engine/Transient.REINST_apple_C_232:ExecuteUbergraph_apple
+[2018.05.18-01.30.18:780][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0ce267e00, Size=504, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.30.29:525][441]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.30.29:560][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.30.29:560][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.30.29:560][441]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:30:29)
+[2018.05.18-01.30.29:560][441]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.30.29:573][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013101s)
+[2018.05.18-01.30.29:574][441]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.30.29:574][441]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2018.05.18-01.30.29:574][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014116s)
+[2018.05.18-01.30.29:595][441]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d03a5cf380, Size=528
+[2018.05.18-01.30.29:613][441]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.30.29:623][441]LogInit: FAudioDevice initialized.
+[2018.05.18-01.30.29:654][441]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.30.29:656][441]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.30.29
+[2018.05.18-01.30.29:657][441]LogWorld: Bringing up level for play took: 0.002084
+[2018.05.18-01.30.29:658][441]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,813
+[2018.05.18-01.30.29:658][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.31.05:494][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.31.05:615][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.31.06:748][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.31.11:798][321]Cmd: TRANSACTION UNDO
+[2018.05.18-01.31.11:798][321]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2018.05.18-01.31.11:801][321]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0cbdabfc0, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.31.13:219][434]Cmd: TRANSACTION UNDO
+[2018.05.18-01.31.13:220][434]LogEditorTransaction: Undo Delete current selection
+[2018.05.18-01.31.13:220][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0cbdabfc0, Size=4
+[2018.05.18-01.31.13:221][434]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adff40, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_236:ExecuteUbergraph_apple
+[2018.05.18-01.31.13:223][434]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c7adeb10, Size=4, Default__SKEL_apple_C Function /Game/arvores/apple.SKEL_apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.35.13:209][226]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.35.13:218][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adeb10, Size=4
+[2018.05.18-01.35.13:218][226]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0a12f6128, Size=4, Default__SKEL_apple_C Function /Engine/Transient.REINST_SKEL_apple_C_238:ExecuteUbergraph_apple
+[2018.05.18-01.35.13:227][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0ce267e00, Size=504
+[2018.05.18-01.35.13:227][226]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d0c47400, Size=504, apple_C_1531 Function /Engine/Transient.REINST_apple_C_240:ExecuteUbergraph_apple
+[2018.05.18-01.35.13:231][226]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d192df80, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.35.13:582][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7adff40, Size=4
+[2018.05.18-01.35.13:582][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0a12f6128, Size=4
+[2018.05.18-01.35.14:528][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple" FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset" SILENT=true
+[2018.05.18-01.35.14:579][298]LogSavePackage: Save=37.14ms
+[2018.05.18-01.35.14:579][298]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/appleF00EC5014011E8B612EFE98361778287.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset'
+[2018.05.18-01.35.14:582][298]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple.uasset
+[2018.05.18-01.35.17:024][410]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.35.17:059][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.35.17:059][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.35.17:059][410]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:35:17)
+[2018.05.18-01.35.17:060][410]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.35.17:073][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013273s)
+[2018.05.18-01.35.17:074][410]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.35.17:074][410]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.05.18-01.35.17:074][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014287s)
+[2018.05.18-01.35.17:096][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d0c47400, Size=504
+[2018.05.18-01.35.17:115][410]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.35.17:125][410]LogInit: FAudioDevice initialized.
+[2018.05.18-01.35.17:155][410]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.35.17:157][410]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.35.17
+[2018.05.18-01.35.17:158][410]LogWorld: Bringing up level for play took: 0.002412
+[2018.05.18-01.35.17:159][410]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,314
+[2018.05.18-01.35.17:159][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.35.27:105][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.35.27:210][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.35.27:829][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.37.19:413][312]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.37.19:430][312]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0d192df80, Size=528
+[2018.05.18-01.37.19:430][312]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0cf45df80, Size=528, apple_C_1545 Function /Engine/Transient.REINST_apple_C_244:ExecuteUbergraph_apple
+[2018.05.18-01.37.19:434][312]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08de38680, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.37.26:703][565]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.37.26:735][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.37.26:736][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.37.26:736][565]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:37:26)
+[2018.05.18-01.37.26:736][565]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.37.26:749][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013260s)
+[2018.05.18-01.37.26:750][565]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.37.26:750][565]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.05.18-01.37.26:750][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014244s)
+[2018.05.18-01.37.26:770][565]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0cf45df80, Size=528
+[2018.05.18-01.37.26:791][565]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.37.26:802][565]LogInit: FAudioDevice initialized.
+[2018.05.18-01.37.26:836][565]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.37.26:839][565]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.37.26
+[2018.05.18-01.37.26:839][565]LogWorld: Bringing up level for play took: 0.002208
+[2018.05.18-01.37.26:840][565]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,005
+[2018.05.18-01.37.26:841][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.37.37:314][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.37.37:426][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.37.38:534][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.37.56:417][227]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.37.56:434][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08de38680, Size=528
+[2018.05.18-01.37.56:434][227]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0ff1d2700, Size=528, apple_C_1559 Function /Engine/Transient.REINST_apple_C_248:ExecuteUbergraph_apple
+[2018.05.18-01.37.56:437][227]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b16f8b80, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.38.00:415][390]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.38.00:446][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.38.00:446][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.38.00:446][390]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:38:00)
+[2018.05.18-01.38.00:447][390]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.38.00:460][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012780s)
+[2018.05.18-01.38.00:460][390]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.38.00:460][390]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.05.18-01.38.00:460][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013717s)
+[2018.05.18-01.38.00:480][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0ff1d2700, Size=528
+[2018.05.18-01.38.00:504][390]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.38.00:514][390]LogInit: FAudioDevice initialized.
+[2018.05.18-01.38.00:548][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.38.00:551][390]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.38.00
+[2018.05.18-01.38.00:551][390]LogWorld: Bringing up level for play took: 0.002089
+[2018.05.18-01.38.00:552][390]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,292
+[2018.05.18-01.38.00:553][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.38.13:271][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.38.13:383][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.38.13:995][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.18-01.38.29:624][840]BlueprintLog: New page: Compilar apple
+[2018.05.18-01.38.29:640][840]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b16f8b80, Size=528
+[2018.05.18-01.38.29:640][840]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d101674180, Size=528, apple_C_1573 Function /Engine/Transient.REINST_apple_C_252:ExecuteUbergraph_apple
+[2018.05.18-01.38.29:644][840]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0d0be5300, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.05.18-01.38.34:642][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d101674180, Size=528
+[2018.05.18-01.38.34:786][ 99]LogSavePackage: Save=128.88ms
+[2018.05.18-01.38.34:786][ 99]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap684DC61A433A34E8E1AE08A57DE54968.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.18-01.38.34:790][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.18-01.38.34:954][ 99]LogSavePackage: Save=122.71ms
+[2018.05.18-01.38.34:954][ 99]LogSavePackage: Moving '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_BuiltData1771E27546F2813E3A19C7AEEBF3B841.tmp' to '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.18-01.38.34:956][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.18-01.38.37:026][126]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.18-01.38.37:057][126]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.38.37:057][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.18-01.38.37:057][126]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (17/05/2018 19:38:37)
+[2018.05.18-01.38.37:057][126]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.18-01.38.37:070][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012688s)
+[2018.05.18-01.38.37:071][126]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.18-01.38.37:071][126]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.05.18-01.38.37:071][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013605s)
+[2018.05.18-01.38.37:092][126]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c5fb7700, Size=360
+[2018.05.18-01.38.37:092][126]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c7517280, Size=360
+[2018.05.18-01.38.37:094][126]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.18-01.38.37:104][126]LogInit: FAudioDevice initialized.
+[2018.05.18-01.38.37:143][126]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.18-01.38.37:146][126]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.17-22.38.37
+[2018.05.18-01.38.37:146][126]LogWorld: Bringing up level for play took: 0.002255
+[2018.05.18-01.38.37:147][126]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,302
+[2018.05.18-01.38.37:148][126]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.39.16:472][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.18-01.39.16:587][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
