@@ -1,4 +1,4 @@
-﻿Log file open, 05/24/18 19:31:05
+﻿Log file open, 06/07/18 19:15:07
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: RafaGirafa
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1158333184) SRandInit(-1158333184).
+LogInit: Display: RandInit(-216983786) SRandInit(-216983786).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 6.662940
+LogStats: Stats thread started at 6.584255
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  4.134s to configure plugins.
+LogStreaming: Display: Took  4.731s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +188,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am ALUNO_18 (10.16.4.23:0)
+LogInit: WinSock: I am ALUNO_17 (10.16.4.22:0)
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -217,510 +217,921 @@ LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Base Directory: C:/Users/con8992291/Documents/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.003s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.05.24-22.31.10:461][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.24-22.31.10:461][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.05.24-22.31.10:518][  0]LogInit: Computer: ALUNO_18
-[2018.05.24-22.31.10:518][  0]LogInit: User: con8960402
-[2018.05.24-22.31.10:518][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.05.24-22.31.10:518][  0]LogInit: High frequency timer resolution =3.312792 MHz
-[2018.05.24-22.31.10:518][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
-[2018.05.24-22.31.10:518][  0]LogMemory: Platform Memory Stats for Windows
-[2018.05.24-22.31.10:518][  0]LogMemory: Process Physical Memory: 273.32 MB used, 273.32 MB peak
-[2018.05.24-22.31.10:518][  0]LogMemory: Process Virtual Memory: 261.82 MB used, 261.82 MB peak
-[2018.05.24-22.31.10:518][  0]LogMemory: Physical Memory: 4347.70 MB used,  3798.80 MB free, 8146.50 MB total
-[2018.05.24-22.31.10:518][  0]LogMemory: Virtual Memory: 679.45 MB used,  3798.80 MB free, 134217728.00 MB total
-[2018.05.24-22.31.11:062][  0]LogInit: Using OS detected language (pt-BR).
-[2018.05.24-22.31.11:063][  0]LogInit: Using OS detected locale (pt-BR).
-[2018.05.24-22.31.12:766][  0]LogStreaming: Display: Took  1.704s to EndInitTextLocalization.
-[2018.05.24-22.31.12:767][  0]LogInit: Setting process to per monitor DPI aware
-[2018.05.24-22.31.13:237][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.05.24-22.31.13:238][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.05.24-22.31.18:481][  0]LogD3D11RHI: D3D11 adapters:
-[2018.05.24-22.31.18:490][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
-[2018.05.24-22.31.18:490][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
-[2018.05.24-22.31.18:492][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.05.24-22.31.18:492][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.05.24-22.31.18:492][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.05.24-22.31.18:497][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.05.24-22.31.18:497][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
-[2018.05.24-22.31.18:497][  0]LogWindows: EnumDisplayDevices:
-[2018.05.24-22.31.18:498][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
-[2018.05.24-22.31.18:498][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
-[2018.05.24-22.31.18:498][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
-[2018.05.24-22.31.18:498][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
-[2018.05.24-22.31.18:498][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.05.24-22.31.18:498][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
-[2018.05.24-22.31.18:498][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.05.24-22.31.18:498][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.05.24-22.31.18:498][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
-[2018.05.24-22.31.18:516][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
-[2018.05.24-22.31.18:541][  0]LogD3D11RHI: Async texture creation enabled
-[2018.05.24-22.31.18:566][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
-[2018.05.24-22.31.18:567][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Intermediate/Shaders/WorkingDirectory/3332/).
-[2018.05.24-22.31.18:567][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/con8960402/AppData/Local/Temp/UnrealShaderWorkingDir/1CF1EC6B414A7DEF9323B98BAD7C3E7A/'.
-[2018.05.24-22.31.20:464][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.05.24-22.31.20:480][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.05.24-22.31.20:496][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.05.24-22.31.20:511][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.05.24-22.31.20:556][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.05.24-22.31.20:572][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.05.24-22.31.20:588][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.05.24-22.31.20:603][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.05.24-22.31.20:611][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.05.24-22.31.20:625][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.05.24-22.31.20:639][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.05.24-22.31.20:652][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.05.24-22.31.20:666][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.05.24-22.31.20:680][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.05.24-22.31.20:695][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.05.24-22.31.20:721][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.05.24-22.31.20:721][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.05.24-22.31.20:807][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.05.24-22.31.20:809][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.05.24-22.31.20:979][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.05.24-22.31.20:993][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.05.24-22.31.21:007][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.05.24-22.31.21:020][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.05.24-22.31.21:034][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.05.24-22.31.21:066][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.05.24-22.31.21:066][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.05.24-22.31.22:450][  0]LogXGEController: Cleaning working directory: C:/Users/con8960402/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.05.24-22.31.22:450][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.05.24-22.31.22:450][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.05.24-22.31.22:450][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.05.24-22.31.26:036][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.05.24-22.31.26:036][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
-[2018.05.24-22.31.26:036][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.05.24-22.31.26:036][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.05.24-22.31.26:036][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.05.24-22.31.26:036][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.05.24-22.31.26:110][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.05.24-22.31.26:128][  0]LogDerivedDataCache: Using Local data cache path C:/Users/con8960402/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.05.24-22.31.26:128][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.05.24-22.31.26:128][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.05.24-22.31.26:161][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.05.24-22.31.26:162][  0]LogSlate: Using Freetype 2.6.0
-[2018.05.24-22.31.26:259][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.24-22.31.26:259][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.24-22.31.34:107][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
-[2018.05.24-22.31.34:687][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.24-22.31.39:969][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.05.24-22.31.40:112][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.05.24-22.31.40:122][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.05.24-22.31.40:123][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.05.24-22.31.40:123][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.05.24-22.31.40:123][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.05.24-22.31.41:550][  0]LogNetVersion: RafaGirafa , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2121433062)
-[2018.05.24-22.31.49:536][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.096089 seconds
-[2018.05.24-22.31.49:542][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.05.24-22.31.49:542][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2018.05.24-22.31.49:542][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.05.24-22.32.31:290][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Intermediate/CachedAssetRegistry.bin
-[2018.05.24-22.32.31:864][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.05.24-22.32.31:899][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.05.24-22.32.32:746][  0]SourceControl: Controle de origem desativado
-[2018.05.24-22.32.32:746][  0]SourceControl: Controle de origem desativado
-[2018.05.24-22.32.32:768][  0]SourceControl: Controle de origem desativado
-[2018.05.24-22.32.32:790][  0]SourceControl: Controle de origem desativado
-[2018.05.24-22.32.32:908][  0]LogConfig: Warning: Failed to saved backup for config[Encryption]
-[2018.05.24-22.32.33:598][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.05.24-22.32.33:773][  0]LogOcInput: OculusInput pre-init called
-[2018.05.24-22.32.34:010][  0]LogEngine: Initializing Engine...
-[2018.05.24-22.32.34:030][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.05.24-22.32.34:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.05.24-22.32.34:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.05.24-22.32.35:362][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.05.24-22.32.35:610][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.05.24-22.32.35:659][  0]LogInit: FAudioDevice initialized.
-[2018.05.24-22.32.35:687][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/con8960402/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.05.24-22.32.35:713][  0]LogInit: Texture streaming: Enabled
-[2018.05.24-22.32.35:948][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.05.24-22.32.36:142][  0]LogInit: Transaction tracking system initialized
-[2018.05.24-22.32.36:503][  0]BlueprintLog: New page: Carregar Editor
-[2018.05.24-22.32.38:487][  0]LocalizationService: Localization service is disabled
-[2018.05.24-22.32.39:307][  0]LogConsoleResponse: Display: 
-[2018.05.24-22.32.42:350][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/' took 0.05s
-[2018.05.24-22.32.42:351][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.05.24-22.32.42:351][  0]LogCook: Display: Mobile HDR setting 1
-[2018.05.24-22.32.42:362][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.05.24-22.32.42:363][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.05.24-22.32.42:363][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.05.24-22.32.47:378][  0]SourceControl: Controle de origem desativado
-[2018.05.24-22.32.47:416][  0]Cmd: MAP LOAD FILE="../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.05.24-22.32.47:433][  0]LightingResults: New page: Compilação de Iluminação
-[2018.05.24-22.32.47:716][  0]MapCheck: New page: Verificação de Mapa
-[2018.05.24-22.32.47:716][  0]LightingResults: New page: Compilação de Iluminação
-[2018.05.24-22.32.48:659][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b7696b5ac0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.05.24-22.32.48:877][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b7696b5ac0, Size=64
-[2018.05.24-22.32.48:877][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b7696b5bc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.05.24-22.32.48:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b75b035260, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.05.24-22.32.49:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b75af9eac0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2018.05.24-22.32.49:141][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b75af9eac0, Size=296
-[2018.05.24-22.32.49:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b75af9eac0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
-[2018.05.24-22.32.49:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b75af9d300, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2018.05.24-22.32.49:376][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b75b3cf600, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
-[2018.05.24-22.32.49:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b75b3cf600, Size=528
-[2018.05.24-22.32.49:381][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b75b3cf600, Size=528, Default__apple_C Function /Engine/Transient.REINST_apple_C_8:ExecuteUbergraph_apple
-[2018.05.24-22.32.49:384][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b75b3cdd00, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
-[2018.05.24-22.32.50:190][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [262.098541ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
-[2018.05.24-22.32.50:240][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
-[2018.05.24-22.32.50:271][  0]LogStaticMesh: Criando malha estática rafa_girafa_pCube1...
-[2018.05.24-22.32.50:314][  0]LogShaderCompilers: Display: Shaders left to compile 22
-[2018.05.24-22.32.50:314][  0]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.05.24-22.32.50:314][  0]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.05.24-22.32.50:314][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Mannequin/Character/rafa_girafa_pCube1.rafa_girafa_pCube1
-[2018.05.24-22.32.51:596][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2018.05.24-22.32.53:101][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.05.24-22.32.53:365][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b7696b5bc0, Size=64
-[2018.05.24-22.32.53:365][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b75af9eac0, Size=296
-[2018.05.24-22.32.53:365][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b75b3cf600, Size=528
-[2018.05.24-22.32.53:478][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.05.24-22.32.53:574][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95,772ms to complete.
-[2018.05.24-22.32.53:574][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.162
-[2018.05.24-22.32.56:052][  0]LogCollectionManager: Loaded 0 collections in 0.002100 seconds
-[2018.05.24-22.32.56:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Saved/Collections/' took 0.01s
-[2018.05.24-22.32.56:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/Developers/con8960402/Collections/' took 0.02s
-[2018.05.24-22.32.56:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/Collections/' took 0.01s
-[2018.05.24-22.32.56:243][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.05.24-22.32.56:256][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2452 classes and 558 folders.
-[2018.05.24-22.32.56:375][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.05.24-22.32.58:047][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.05.24-22.32.58:125][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.05.24-22.32.58:688][  0]LogSlate: Took 0.045130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.05.24-22.32.58:727][  0]LogSlate: Took 0.032571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.05.24-22.32.58:791][  0]LogSlate: Took 0.029718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.05.24-22.32.59:252][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.05.24-22.33.00:055][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.05.24-22.33.00:100][  0]LogSlate: Window 'Tutoriais' being destroyed
-[2018.05.24-22.33.00:175][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.05.24-22.33.00:175][  0]LogLoad: (Engine Initialization) Total time: 138.38 seconds
-[2018.05.24-22.33.00:175][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.05.24-22.33.00:611][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.05.24-22.33.00:720][  0]LogSlate: Took 0.032960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.05.24-22.33.00:903][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/' took 0.31s
-[2018.05.24-22.33.01:239][  1]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
-[2018.05.24-22.33.02:701][  2]LogAssetRegistry: Asset discovery search completed in 88.6167 seconds
-[2018.05.24-22.33.02:757][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.05.24-22.33.02:757][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.041692 seconds (updated 0 objects)
-[2018.05.24-22.33.03:467][  3]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.05.25-01.44.45:001][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.05.25-01.44.45:161][502]LogSlate: Window 'RafaGirafa - Editor do Unreal' being destroyed
-[2018.05.25-01.44.45:392][503]Cmd: QUIT_EDITOR
-[2018.05.25-01.44.45:435][503]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.05.25-01.44.45:435][503]LogExit: Preparing to exit.
-[2018.05.25-01.44.46:485][503]LogDirectoryWatcher: A directory notification for 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/' was aborted.
-[2018.05.25-01.44.46:566][503]LogExit: Editor shut down
-[2018.05.25-01.44.46:597][503]LogExit: Transaction tracking system shut down
-[2018.05.25-01.44.46:599][503]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b75b035260, Size=72
-[2018.05.25-01.44.46:600][503]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b75af9d300, Size=296
-[2018.05.25-01.44.46:601][503]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b75b3cdd00, Size=528
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../../../../../Users/con8960402/Documents/GitHub/Rafa-game/Content/' was aborted.
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.05.25-01.44.46:835][503]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.05.25-01.44.47:354][503]LogExit: Object subsystem successfully closed.
-[2018.05.25-01.44.47:540][503]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.05.25-01.44.47:564][503]LogD3D11RHI: Shutdown
-[2018.05.25-01.44.47:564][503]LogD3D11RHI: CleanupD3DDevice
-[2018.05.25-01.44.47:597][503]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.05.25-01.44.49:110][503]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
-[2018.05.25-01.44.49:110][503]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
-[2018.05.25-01.44.49:110][503]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
-[2018.05.25-01.44.49:119][503]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
-[2018.05.25-01.44.49:127][503]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
-[2018.05.25-01.44.49:127][503]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
-[2018.05.25-01.44.49:127][503]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
-[2018.05.25-01.44.49:142][503]LogDirectoryWatcher: A directory notification for 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/Collections/' was aborted.
-[2018.05.25-01.44.49:142][503]LogDirectoryWatcher: A directory notification for 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/Developers/con8960402/Collections/' was aborted.
-[2018.05.25-01.44.49:142][503]LogDirectoryWatcher: A directory notification for 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Saved/Collections/' was aborted.
-[2018.05.25-01.44.49:143][503]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
-[2018.05.25-01.44.49:154][503]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
-[2018.05.25-01.44.49:154][503]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
-[2018.05.25-01.44.49:155][503]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
-[2018.05.25-01.44.49:155][503]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
-[2018.05.25-01.44.49:155][503]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
-[2018.05.25-01.44.49:155][503]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module BspMode (546)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
-[2018.05.25-01.44.49:176][503]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
-[2018.05.25-01.44.49:198][503]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
-[2018.05.25-01.44.49:198][503]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
-[2018.05.25-01.44.49:215][503]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
-[2018.05.25-01.44.49:215][503]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
-[2018.05.25-01.44.49:246][503]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
-[2018.05.25-01.44.49:246][503]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
-[2018.05.25-01.44.49:246][503]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module SessionServices (500)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
-[2018.05.25-01.44.49:272][503]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
-[2018.05.25-01.44.49:298][503]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
-[2018.05.25-01.44.49:314][503]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
-[2018.05.25-01.44.49:364][503]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
-[2018.05.25-01.44.49:400][503]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
-[2018.05.25-01.44.49:415][503]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
-[2018.05.25-01.44.49:425][503]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
-[2018.05.25-01.44.49:425][503]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
-[2018.05.25-01.44.49:425][503]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
-[2018.05.25-01.44.49:758][503]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
-[2018.05.25-01.44.49:758][503]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
-[2018.05.25-01.44.49:758][503]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
-[2018.05.25-01.44.49:759][503]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
-[2018.05.25-01.44.49:769][503]LogModuleManager: Shutting down and abandoning module MergeActors (468)
-[2018.05.25-01.44.49:776][503]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
-[2018.05.25-01.44.49:779][503]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
-[2018.05.25-01.44.49:792][503]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
-[2018.05.25-01.44.49:792][503]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
-[2018.05.25-01.44.49:803][503]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
-[2018.05.25-01.44.49:803][503]LogModuleManager: Shutting down and abandoning module XmlParser (456)
-[2018.05.25-01.44.49:803][503]LogModuleManager: Shutting down and abandoning module Blutility (454)
-[2018.05.25-01.44.49:804][503]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
-[2018.05.25-01.44.49:804][503]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
-[2018.05.25-01.44.49:804][503]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
-[2018.05.25-01.44.49:804][503]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
-[2018.05.25-01.44.49:825][503]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
-[2018.05.25-01.44.49:836][503]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
-[2018.05.25-01.44.49:842][503]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
-[2018.05.25-01.44.49:860][503]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
-[2018.05.25-01.44.49:871][503]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
-[2018.05.25-01.44.49:925][503]LogModuleManager: Shutting down and abandoning module AutomationController (434)
-[2018.05.25-01.44.49:932][503]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
-[2018.05.25-01.44.49:962][503]LogModuleManager: Shutting down and abandoning module Layers (430)
-[2018.05.25-01.44.49:981][503]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
-[2018.05.25-01.44.49:981][503]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
-[2018.05.25-01.44.49:998][503]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
-[2018.05.25-01.44.49:998][503]LogModuleManager: Shutting down and abandoning module Persona (422)
-[2018.05.25-01.44.50:020][503]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
-[2018.05.25-01.44.50:020][503]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
-[2018.05.25-01.44.50:020][503]LogModuleManager: Shutting down and abandoning module Kismet (416)
-[2018.05.25-01.44.50:021][503]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
-[2018.05.25-01.44.50:021][503]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
-[2018.05.25-01.44.50:021][503]LogModuleManager: Shutting down and abandoning module Toolbox (410)
-[2018.05.25-01.44.50:021][503]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
-[2018.05.25-01.44.50:028][503]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
-[2018.05.25-01.44.50:036][503]LogModuleManager: Shutting down and abandoning module OutputLog (404)
-[2018.05.25-01.44.50:042][503]LogModuleManager: Shutting down and abandoning module GammaUI (402)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module Documentation (400)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module MovieScene (396)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module PortalServices (388)
-[2018.05.25-01.44.50:058][503]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
-[2018.05.25-01.44.50:059][503]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
-[2018.05.25-01.44.50:059][503]LogModuleManager: Shutting down and abandoning module AIModule (382)
-[2018.05.25-01.44.50:059][503]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
-[2018.05.25-01.44.50:059][503]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
-[2018.05.25-01.44.50:097][503]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
-[2018.05.25-01.44.50:125][503]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
-[2018.05.25-01.44.50:490][503]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
-[2018.05.25-01.44.50:496][503]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
-[2018.05.25-01.44.50:497][503]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
-[2018.05.25-01.44.50:497][503]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module OculusInput (364)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module CableComponent (358)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
-[2018.05.25-01.44.50:512][503]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
-[2018.05.25-01.44.50:565][503]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
-[2018.05.25-01.44.50:565][503]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
-[2018.05.25-01.44.50:565][503]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
-[2018.05.25-01.44.50:565][503]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
-[2018.05.25-01.44.50:574][503]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
-[2018.05.25-01.44.50:594][503]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
-[2018.05.25-01.44.50:605][503]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
-[2018.05.25-01.44.50:611][503]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
-[2018.05.25-01.44.50:612][503]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
-[2018.05.25-01.44.50:612][503]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
-[2018.05.25-01.44.50:612][503]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
-[2018.05.25-01.44.50:612][503]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
-[2018.05.25-01.44.50:616][503]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
-[2018.05.25-01.44.50:623][503]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
-[2018.05.25-01.44.50:627][503]LogModuleManager: Shutting down and abandoning module SourceControl (303)
-[2018.05.25-01.44.50:638][503]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
-[2018.05.25-01.44.50:638][503]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
-[2018.05.25-01.44.50:638][503]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
-[2018.05.25-01.44.50:638][503]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
-[2018.05.25-01.44.50:638][503]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
-[2018.05.25-01.44.50:646][503]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
-[2018.05.25-01.44.50:657][503]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
-[2018.05.25-01.44.50:657][503]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
-[2018.05.25-01.44.50:657][503]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
-[2018.05.25-01.44.50:657][503]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
-[2018.05.25-01.44.50:657][503]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
-[2018.05.25-01.44.50:657][503]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
-[2018.05.25-01.44.50:657][503]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
-[2018.05.25-01.44.50:665][503]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
-[2018.05.25-01.44.50:665][503]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
-[2018.05.25-01.44.50:783][503]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
-[2018.05.25-01.44.50:888][503]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
-[2018.05.25-01.44.50:901][503]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
-[2018.05.25-01.44.50:901][503]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
-[2018.05.25-01.44.50:901][503]LogModuleManager: Shutting down and abandoning module DataValidation (262)
-[2018.05.25-01.44.50:906][503]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
-[2018.05.25-01.44.50:920][503]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
-[2018.05.25-01.44.50:929][503]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
-[2018.05.25-01.44.50:950][503]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
-[2018.05.25-01.44.50:950][503]LogModuleManager: Shutting down and abandoning module MainFrame (254)
-[2018.05.25-01.44.50:950][503]LogModuleManager: Shutting down and abandoning module HotReload (253)
-[2018.05.25-01.44.50:959][503]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
-[2018.05.25-01.44.50:961][503]LogModuleManager: Shutting down and abandoning module TreeMap (247)
-[2018.05.25-01.44.50:965][503]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
-[2018.05.25-01.44.50:965][503]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
-[2018.05.25-01.44.50:981][503]LogModuleManager: Shutting down and abandoning module LiveLink (240)
-[2018.05.25-01.44.51:300][503]LogModuleManager: Shutting down and abandoning module Paper2D (238)
-[2018.05.25-01.44.51:310][503]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
-[2018.05.25-01.44.51:311][503]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
-[2018.05.25-01.44.51:321][503]LogModuleManager: Shutting down and abandoning module Media (233)
-[2018.05.25-01.44.51:327][503]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
-[2018.05.25-01.44.51:327][503]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
-[2018.05.25-01.44.51:327][503]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
-[2018.05.25-01.44.51:351][503]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
-[2018.05.25-01.44.51:351][503]LogModuleManager: Shutting down and abandoning module Overlay (222)
-[2018.05.25-01.44.51:351][503]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
-[2018.05.25-01.44.51:351][503]LogModuleManager: Shutting down and abandoning module VREditor (218)
-[2018.05.25-01.44.51:379][503]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
-[2018.05.25-01.44.51:379][503]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
-[2018.05.25-01.44.51:379][503]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
-[2018.05.25-01.44.51:405][503]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
-[2018.05.25-01.44.51:409][503]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
-[2018.05.25-01.44.51:428][503]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
-[2018.05.25-01.44.51:428][503]LogModuleManager: Shutting down and abandoning module UMG (204)
-[2018.05.25-01.44.51:447][503]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
-[2018.05.25-01.44.51:467][503]LogModuleManager: Shutting down and abandoning module Sequencer (202)
-[2018.05.25-01.44.51:485][503]LogModuleManager: Shutting down and abandoning module MessageLog (199)
-[2018.05.25-01.44.51:485][503]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
-[2018.05.25-01.44.51:498][503]LogModuleManager: Shutting down and abandoning module Slate (192)
-[2018.05.25-01.44.51:498][503]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
-[2018.05.25-01.44.51:500][503]LogModuleManager: Shutting down and abandoning module MRMesh (188)
-[2018.05.25-01.44.51:500][503]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
-[2018.05.25-01.44.51:500][503]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
-[2018.05.25-01.44.51:500][503]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
-[2018.05.25-01.44.51:500][503]LogModuleManager: Shutting down and abandoning module Networking (180)
-[2018.05.25-01.44.51:500][503]LogModuleManager: Shutting down and abandoning module Core (178)
-[2018.05.25-01.44.51:500][503]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
-[2018.05.25-01.44.51:508][503]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
-[2018.05.25-01.44.51:508][503]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
-[2018.05.25-01.44.51:508][503]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
-[2018.05.25-01.44.51:508][503]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
-[2018.05.25-01.44.51:508][503]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
-[2018.05.25-01.44.51:519][503]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
-[2018.05.25-01.44.51:525][503]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
-[2018.05.25-01.44.51:525][503]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
-[2018.05.25-01.44.51:535][503]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
-[2018.05.25-01.44.51:543][503]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
-[2018.05.25-01.44.51:591][503]LogDerivedDataCache: Shutdown
-[2018.05.25-01.44.51:592][503]LogModuleManager: Shutting down and abandoning module XGEController (152)
-[2018.05.25-01.44.51:592][503]LogXGEController: Cleaning working directory: C:/Users/con8960402/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.05.25-01.44.51:592][503]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
-[2018.05.25-01.44.51:592][503]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
-[2018.05.25-01.44.51:601][503]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
-[2018.05.25-01.44.51:612][503]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
-[2018.05.25-01.44.51:621][503]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
-[2018.05.25-01.44.51:621][503]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
-[2018.05.25-01.44.51:639][503]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Messaging (109)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
-[2018.05.25-01.44.51:640][503]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
-[2018.05.25-01.44.51:641][503]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
-[2018.05.25-01.44.51:641][503]LogModuleManager: Shutting down and abandoning module InputCore (66)
-[2018.05.25-01.44.51:641][503]LogModuleManager: Shutting down and abandoning module Settings (64)
-[2018.05.25-01.44.51:641][503]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
-[2018.05.25-01.44.51:641][503]LogModuleManager: Shutting down and abandoning module SteamVR (60)
-[2018.05.25-01.44.51:641][503]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
-[2018.05.25-01.44.51:650][503]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
-[2018.05.25-01.44.51:650][503]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
-[2018.05.25-01.44.51:650][503]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.05.25-01.44.51:650][503]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.05.25-01.44.51:650][503]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.05.25-01.44.51:677][503]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.05.25-01.44.51:688][503]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.05.25-01.44.51:713][503]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.05.25-01.44.51:713][503]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B558C6E36-4DA7-69B5-CD3B-3191B9D9379E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=bc55e6aa41629a320ceeeaa3ce2b5785%7C%7C753020c0-f080-4e57-8f7e-3c525f531543&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.05.25-01.44.51:720][503]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.05.25-01.44.51:753][503]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.05.25-01.44.51:770][503]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.05.25-01.44.51:776][503]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.05.25-01.44.51:789][503]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.05.25-01.44.51:820][503]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.05.25-01.44.51:820][503]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.05.25-01.44.51:820][503]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.05.25-01.44.51:844][503]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.05.25-01.44.51:851][503]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.05.25-01.44.51:873][503]LogExit: Exiting.
-[2018.05.25-01.44.51:899][503]Log file closed, 05/24/18 22:44:51
+[2018.06.07-22.15.13:083][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.07-22.15.13:083][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.07-22.15.13:136][  0]LogInit: Computer: ALUNO_17
+[2018.06.07-22.15.13:136][  0]LogInit: User: con8960402
+[2018.06.07-22.15.13:136][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.07-22.15.13:136][  0]LogInit: High frequency timer resolution =3.312784 MHz
+[2018.06.07-22.15.13:136][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.06.07-22.15.13:136][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.07-22.15.13:136][  0]LogMemory: Process Physical Memory: 273.21 MB used, 273.21 MB peak
+[2018.06.07-22.15.13:136][  0]LogMemory: Process Virtual Memory: 261.74 MB used, 261.74 MB peak
+[2018.06.07-22.15.13:136][  0]LogMemory: Physical Memory: 3745.95 MB used,  4400.55 MB free, 8146.50 MB total
+[2018.06.07-22.15.13:136][  0]LogMemory: Virtual Memory: 679.45 MB used,  4400.55 MB free, 134217728.00 MB total
+[2018.06.07-22.15.13:962][  0]LogInit: Using OS detected language (pt-BR).
+[2018.06.07-22.15.13:962][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.06.07-22.15.15:557][  0]LogStreaming: Display: Took  1.594s to EndInitTextLocalization.
+[2018.06.07-22.15.15:557][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.07-22.15.16:340][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.07-22.15.16:340][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.07-22.15.19:620][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.07-22.15.19:630][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
+[2018.06.07-22.15.19:630][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.06.07-22.15.19:632][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.07-22.15.19:632][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.07-22.15.19:632][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.07-22.15.19:638][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.07-22.15.19:638][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.07-22.15.19:638][  0]LogWindows: EnumDisplayDevices:
+[2018.06.07-22.15.19:638][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
+[2018.06.07-22.15.19:639][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.07-22.15.19:639][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.07-22.15.19:639][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.07-22.15.19:639][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.07-22.15.19:639][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
+[2018.06.07-22.15.19:639][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.07-22.15.19:639][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.07-22.15.19:639][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2018.06.07-22.15.19:675][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.06.07-22.15.19:691][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.07-22.15.19:707][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.06.07-22.15.19:708][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../con8960402/Documents/GitHub/Rafa-game/Intermediate/Shaders/WorkingDirectory/12580/).
+[2018.06.07-22.15.19:708][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/con8960402/AppData/Local/Temp/UnrealShaderWorkingDir/43B092D94547EDB5571F769DD2BF0D9E/'.
+[2018.06.07-22.15.21:658][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.07-22.15.21:673][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.07-22.15.21:687][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.07-22.15.21:702][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.07-22.15.21:751][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.07-22.15.21:765][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.07-22.15.21:779][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.07-22.15.21:794][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.07-22.15.21:802][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.07-22.15.21:815][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.07-22.15.21:828][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.07-22.15.21:841][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.07-22.15.21:854][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.07-22.15.21:867][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.07-22.15.21:881][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.07-22.15.21:907][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.07-22.15.21:907][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.07-22.15.21:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.07-22.15.21:940][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.07-22.15.22:055][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.07-22.15.22:067][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.07-22.15.22:080][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.07-22.15.22:093][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.07-22.15.22:106][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.07-22.15.22:144][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.07-22.15.22:144][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.07-22.15.23:565][  0]LogXGEController: Cleaning working directory: C:/Users/con8960402/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.07-22.15.23:565][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.07-22.15.23:565][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.07-22.15.23:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.07-22.15.26:448][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.07-22.15.26:448][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.06.07-22.15.26:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../con8960402/Documents/GitHub/Rafa-game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.07-22.15.26:448][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.07-22.15.26:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../con8960402/Documents/GitHub/Rafa-game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.07-22.15.26:448][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.07-22.15.26:512][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.07-22.15.26:525][  0]LogDerivedDataCache: Using Local data cache path C:/Users/con8960402/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.07-22.15.26:525][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.07-22.15.26:525][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.07-22.15.26:558][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.07-22.15.26:559][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.07-22.15.26:625][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.07-22.15.26:625][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.07-22.15.34:019][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.06.07-22.15.34:465][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.07-22.15.39:679][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.07-22.15.39:742][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.07-22.15.39:766][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.07-22.15.39:798][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.07-22.15.39:798][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.07-22.15.39:798][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.07-22.15.40:450][  0]LogNetVersion: RafaGirafa , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2121433062)
+[2018.06.07-22.15.48:631][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.085389 seconds
+[2018.06.07-22.15.48:636][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.07-22.15.48:636][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.07-22.15.48:636][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.07-22.16.26:926][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.07-22.16.26:957][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.07-22.16.27:451][  0]SourceControl: Controle de origem desativado
+[2018.06.07-22.16.27:451][  0]SourceControl: Controle de origem desativado
+[2018.06.07-22.16.27:471][  0]SourceControl: Controle de origem desativado
+[2018.06.07-22.16.27:489][  0]SourceControl: Controle de origem desativado
+[2018.06.07-22.16.28:314][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.07-22.16.28:516][  0]LogOcInput: OculusInput pre-init called
+[2018.06.07-22.16.28:731][  0]LogEngine: Initializing Engine...
+[2018.06.07-22.16.28:732][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.07-22.16.28:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.07-22.16.28:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.07-22.16.29:407][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.07-22.16.29:433][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-22.16.29:468][  0]LogInit: FAudioDevice initialized.
+[2018.06.07-22.16.29:681][  0]LogDerivedDataCache: Saved boot cache 0.21s 74MB C:/Users/con8960402/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.07-22.16.29:696][  0]LogInit: Texture streaming: Enabled
+[2018.06.07-22.16.30:173][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.07-22.16.30:204][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.07-22.16.30:423][  0]LogInit: Transaction tracking system initialized
+[2018.06.07-22.16.30:822][  0]BlueprintLog: New page: Carregar Editor
+[2018.06.07-22.16.32:045][  0]LocalizationService: Localization service is disabled
+[2018.06.07-22.16.33:353][  0]LogConsoleResponse: Display: 
+[2018.06.07-22.16.34:754][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.07-22.16.34:754][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.07-22.16.34:754][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.07-22.16.34:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.07-22.16.34:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.07-22.16.35:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/' took 0.02s
+[2018.06.07-22.16.37:562][  0]SourceControl: Controle de origem desativado
+[2018.06.07-22.16.37:562][  0]Cmd: MAP LOAD FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.07-22.16.37:563][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.07-22.16.37:566][  0]MapCheck: New page: Verificação de Mapa
+[2018.06.07-22.16.37:566][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.07-22.16.37:626][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08c4a680, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.07-22.16.37:639][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08c4a680, Size=64
+[2018.06.07-22.16.37:639][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08c4a880, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.07-22.16.37:649][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08b68fe0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.07-22.16.37:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc08848e00, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.07-22.16.37:692][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08848e00, Size=296
+[2018.06.07-22.16.37:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc087c7ec0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.07-22.16.37:699][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc087c7240, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.07-22.16.38:606][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc1dbbb600, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.06.07-22.16.38:612][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc1dbbb600, Size=528
+[2018.06.07-22.16.38:612][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc1dbbb600, Size=528, Default__apple_C Function /Engine/Transient.REINST_apple_C_8:ExecuteUbergraph_apple
+[2018.06.07-22.16.38:615][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc1dbb9d00, Size=528, Default__apple_C Function /Game/arvores/apple.apple_C:ExecuteUbergraph_apple
+[2018.06.07-22.16.39:376][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [240.403244ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.07-22.16.39:778][  0]LogStaticMesh: Criando malha estática rafa_girafa_pCube1...
+[2018.06.07-22.16.39:820][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Mannequin/Character/rafa_girafa_pCube1.rafa_girafa_pCube1
+[2018.06.07-22.16.39:864][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.06.07-22.16.40:724][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.07-22.16.40:724][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.07-22.16.40:724][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.07-22.16.40:849][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-22.16.40:861][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.07-22.16.40:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc08c4a880, Size=64
+[2018.06.07-22.16.40:876][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc1dbbb600, Size=528
+[2018.06.07-22.16.40:881][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc087c7ec0, Size=296
+[2018.06.07-22.16.40:882][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.07-22.16.40:952][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,057ms to complete.
+[2018.06.07-22.16.40:952][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.389
+[2018.06.07-22.16.41:923][  0]LogCollectionManager: Loaded 0 collections in 0.001893 seconds
+[2018.06.07-22.16.41:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Saved/Collections/' took 0.01s
+[2018.06.07-22.16.41:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/Developers/con8960402/Collections/' took 0.01s
+[2018.06.07-22.16.41:965][  0]LogFileCache: Scanning file cache for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/Collections/' took 0.01s
+[2018.06.07-22.16.41:965][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.07-22.16.41:976][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2452 classes and 558 folders.
+[2018.06.07-22.16.41:984][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.07-22.16.46:750][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.07-22.16.46:840][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.07-22.16.46:896][  0]LogSlate: Took 0.031784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.07-22.16.47:002][  0]LogSlate: Took 0.104050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.07-22.16.47:021][  0]LogSlate: Took 0.012537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.07-22.16.47:393][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.07-22.16.47:730][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.16.47:773][  0]LogSlate: Window 'Tutoriais' being destroyed
+[2018.06.07-22.16.47:815][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.07-22.16.47:815][  0]LogLoad: (Engine Initialization) Total time: 121.23 seconds
+[2018.06.07-22.16.47:815][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.07-22.16.47:857][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.07-22.16.47:949][  0]LogSlate: Took 0.027257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.07-22.16.48:001][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/con8960402/Documents/GitHub/Rafa-game/Content/' took 0.16s
+[2018.06.07-22.16.48:023][  1]LogAssetRegistry: Asset discovery search completed in 74.0263 seconds
+[2018.06.07-22.16.48:025][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.07-22.16.48:025][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.06.07-22.16.49:173][  5]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.07-22.17.16:445][400]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2018.06.07-22.17.16:446][400]LogSynthBenchmark: Display: ===============
+[2018.06.07-22.17.16:446][400]LogSynthBenchmark: Display: Main Processor:
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:          ... 0.019461 s/Run 'RayIntersect'
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:          ... 0.018988 s/Run 'Fractal'
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display: 
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 8
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   CPU Perf Index 0: 131.6 (weight 1.00)
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   CPU Perf Index 1: 150.6 (weight 1.50)
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:  
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display: Graphics:
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   Adapter Name: 'AMD Radeon HD 7000 series'
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   Vendor Id: 0x1002
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   Device Id: 0x6778
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   Device Revision: 0x0
+[2018.06.07-22.17.16:638][400]LogSynthBenchmark: Display:   GPU Memory: 1009/0/3840 MB
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:   GPU first test: 0.24s
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.433 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.364 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be very inaccurate)
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.308 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 1.301 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.048 s/GigaPix, Confidence=89% 'Bandwidth' (likely to be very inaccurate)
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.171 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.194 s/GigaVert, Confidence=89% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.433 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.364 s/GigaPix, Confidence=89% 'TexHeavy'
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.308 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 1.301 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.048 s/GigaPix, Confidence=89% 'Bandwidth'
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.171 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.06.07-22.17.16:942][400]LogSynthBenchmark: Display:          ... 0.194 s/GigaVert, Confidence=89% 'VertThroughPut2'
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display: 
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPU Perf Index 0: 9.4 (weight 1.00)
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPU Perf Index 1: 4.9 (weight 0.10)
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPU Perf Index 2: 8.0 (weight 0.10)
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPU Perf Index 3: 5.1 (weight 3.00)
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPU Perf Index 4: 4.5 (weight 1.00)
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPU Perf Index 5: 11.1 (weight 0.00)
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPU Perf Index 6: 11.0 (weight 0.00)
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   CPUIndex: 143.0
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:   GPUIndex: 5.9
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display: 
+[2018.06.07-22.17.16:943][400]LogSynthBenchmark: Display:          ... Total Time: 0.497381 sec
+[2018.06.07-22.18.22:921][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.18.22:921][688]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-22.18.23:099][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.18.23:122][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-22.18.23:246][688]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 16:18:23)
+[2018.06.07-22.18.23:247][688]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-22.18.23:363][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116638s)
+[2018.06.07-22.18.23:364][688]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-22.18.23:370][688]LogPlayLevel: PIE: World Init took: (0.006544s)
+[2018.06.07-22.18.23:370][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.123410s)
+[2018.06.07-22.18.23:405][688]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-22.18.23:418][688]LogInit: FAudioDevice initialized.
+[2018.06.07-22.18.23:569][688]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-22.18.23:717][688]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-19.18.23
+[2018.06.07-22.18.23:772][688]LogWorld: Bringing up level for play took: 0.090233
+[2018.06.07-22.18.24:020][688]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.07-22.18.24:030][688]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,052
+[2018.06.07-22.18.24:031][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.18.37:430][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.18.37:578][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.18.41:034][935]LogEditorViewport: Clicking on Actor (LMB): apple_C (apple)
+[2018.06.07-22.18.47:428][992]Cmd: DELETE
+[2018.06.07-22.18.47:428][992]Cmd: ACTOR DELETE
+[2018.06.07-22.18.47:626][992]LogEditorActor: Deleted Actor: apple_C
+[2018.06.07-22.18.47:638][992]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.06.07-22.18.49:030][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.18.49:044][  5]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc28b81b40, Size=224, Default__apple3_C Function /Game/arvores/apple3.apple3_C:ExecuteUbergraph_apple3
+[2018.06.07-22.18.49:049][  5]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc28b81b40, Size=224
+[2018.06.07-22.18.49:049][  5]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc28b81b40, Size=224, Default__apple3_C Function /Engine/Transient.REINST_apple3_C_14:ExecuteUbergraph_apple3
+[2018.06.07-22.18.49:054][  5]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc286a3900, Size=224, Default__apple3_C Function /Game/arvores/apple3.apple3_C:ExecuteUbergraph_apple3
+[2018.06.07-22.18.56:817][ 44]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.06.07-22.18.56:909][ 44]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.06.07-22.18.58:285][ 49]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.06.07-22.18.58:925][ 52]LogEditorViewport: Clicking on Actor (LMB): apple3_C (apple3)
+[2018.06.07-22.19.03:734][ 78]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.06.07-22.19.04:010][ 78]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.06.07-22.19.04:460][ 80]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.06.07-22.19.04:668][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.04:679][ 80]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.06.07-22.19.04:764][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.04:774][ 80]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.06.07-22.19.04:864][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.04:872][ 80]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.06.07-22.19.04:964][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.05:054][ 80]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.06.07-22.19.05:148][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.06:536][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.07-22.19.24:618][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.19.24:971][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2018.06.07-22.19.25:124][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.25:201][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2018.06.07-22.19.25:285][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.25:512][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2018.06.07-22.19.25:599][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.28:500][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.19.33:175][221]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.06.07-22.19.33:334][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.33:342][221]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (rafa_girafa_pCube1)
+[2018.06.07-22.19.33:502][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.33:589][221]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (rafa_girafa_pCube1)
+[2018.06.07-22.19.33:689][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.33:700][221]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (rafa_girafa_pCube1)
+[2018.06.07-22.19.33:789][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.33:875][221]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (rafa_girafa_pCube1)
+[2018.06.07-22.19.33:966][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.19.37:499][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.19.37:577][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-22.19.37:597][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.19.37:598][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-22.19.37:598][245]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 16:19:37)
+[2018.06.07-22.19.37:598][245]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-22.19.37:612][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013776s)
+[2018.06.07-22.19.37:612][245]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-22.19.37:613][245]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.06.07-22.19.37:613][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014767s)
+[2018.06.07-22.19.37:623][245]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc28b81b40, Size=224
+[2018.06.07-22.19.37:665][245]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-22.19.37:678][245]LogInit: FAudioDevice initialized.
+[2018.06.07-22.19.37:726][245]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-22.19.37:729][245]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-19.19.37
+[2018.06.07-22.19.37:729][245]LogWorld: Bringing up level for play took: 0.002229
+[2018.06.07-22.19.37:749][245]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,229
+[2018.06.07-22.19.37:750][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.19.45:731][364]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-22.19.50:895][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.19.50:991][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-22.19.54:522][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.19.59:893][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc0f81fb00, Size=568, Default__apple2_C Function /Game/arvores/apple2.apple2_C:ExecuteUbergraph_apple2
+[2018.06.07-22.19.59:899][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc0f81fb00, Size=568
+[2018.06.07-22.19.59:899][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc0f81fb00, Size=568, Default__apple2_C Function /Engine/Transient.REINST_apple2_C_16:ExecuteUbergraph_apple2
+[2018.06.07-22.19.59:913][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc597d5800, Size=568, Default__apple2_C Function /Game/arvores/apple2.apple2_C:ExecuteUbergraph_apple2
+[2018.06.07-22.19.59:948][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc0f81fb00, Size=568
+[2018.06.07-22.20.04:257][504]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.07-22.20.05:611][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.20.06:635][514]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.06.07-22.20.07:206][514]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc82e65888, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.07-22.20.07:214][514]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc82e65880, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.07-22.20.08:290][514]LogSlate: Took 0.013051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.07-22.20.08:738][515]LogSlate: Took 0.016228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.07-22.20.39:454][842]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.06.07-22.20.55:761][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc286a3900, Size=224
+[2018.06.07-22.20.55:762][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8ddf8560, Size=224, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_32:ExecuteUbergraph_apple3
+[2018.06.07-22.20.55:766][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc2aca5360, Size=224, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-22.20.56:317][ 11]LogMetaData: Removing '/Game/arvores/apple-certa.apple-certa_C' ref from Metadata '/Game/arvores/apple3.PackageMetaData'
+[2018.06.07-22.20.56:317][ 11]LogMetaData: Removing '/Game/arvores/apple-certa.SKEL_apple-certa_C' ref from Metadata '/Game/arvores/apple3.PackageMetaData'
+[2018.06.07-22.20.56:683][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple-certa" FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset" SILENT=true
+[2018.06.07-22.20.56:772][ 11]LogSavePackage: Save=84.63ms
+[2018.06.07-22.20.56:772][ 11]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/apple-certaC09766984DB753C9BC1A82B0EC66D1A9.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset'
+[2018.06.07-22.20.56:787][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset
+[2018.06.07-22.25.06:909][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.07-22.25.17:605][943]LogEditorViewport: Clicking on Actor (LMB): apple-certa_C (apple3)
+[2018.06.07-22.25.24:734][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.27.16:307][330]LogSavePackage: Save=189.69ms
+[2018.06.07-22.27.16:307][330]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto1DD7544C64C1C1C79FE55059C32967E32.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.06.07-22.27.16:310][330]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.06.07-22.27.16:350][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.339
+[2018.06.07-22.27.16:350][330]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.339
+[2018.06.07-22.34.23:889][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-22.37.31:138][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.020
+[2018.06.07-22.37.31:140][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/arvores/apple-certa] ([1] browsable assets)...
+[2018.06.07-22.37.31:229][675]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/arvores/apple-certa.apple-certa]
+[2018.06.07-22.37.31:229][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/arvores/apple-certa]
+[2018.06.07-22.37.31:229][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple-certa" FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.06.07-22.37.31:298][675]LogSavePackage: Save=50.55ms
+[2018.06.07-22.37.31:298][675]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/apple-certa_Auto21FBF3DED45C42D53777CD3BFB660FFDA.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto2.uasset'
+[2018.06.07-22.37.31:300][675]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto2.uasset
+[2018.06.07-22.37.31:300][675]LogFileHelpers: Auto-saving content packages took 0.161
+[2018.06.07-22.41.12:467][515]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.06.07-22.41.22:618][619]LogEditorViewport: Clicking on Actor (LMB): tree_C (tree)
+[2018.06.07-22.41.27:355][668]LogEditorViewport: Clicking on Actor (LMB): apple-certa_C (apple3)
+[2018.06.07-22.41.38:675][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.07-22.41.39:577][793]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.07-22.41.48:010][854]LogEditorViewport: Clicking on Actor (LMB): apple-certa_C (apple3)
+[2018.06.07-22.42.49:998][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.07-22.42.52:146][402]LogEditorViewport: Clicking on Actor (LMB): apple-certa_C (apple3)
+[2018.06.07-22.44.02:196][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.07-22.44.05:128][919]LogEditorViewport: Clicking on Actor (LMB): apple-certa_C (apple3)
+[2018.06.07-22.47.27:305][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.07-22.47.30:904][119]MapCheck: New page: Verificação de Mapa
+[2018.06.07-22.47.30:959][119]Cmd: MAP REBUILD ALLVISIBLE
+[2018.06.07-22.47.30:959][119]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.06.07-22.47.31:115][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8ddf8560, Size=224
+[2018.06.07-22.47.31:180][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.06.07-22.47.31:209][119]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.07-22.47.31:209][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.06.07-22.47.31:214][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2018.06.07-22.47.31:220][119]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.07-22.47.31:220][119]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.07-22.47.31:220][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.06.07-22.47.31:226][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.06.07-22.47.31:232][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.06.07-22.47.31:237][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.06.07-22.47.31:243][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ground_Grass, compiling. 
+[2018.06.07-22.47.31:249][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.06.07-22.47.31:257][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.06.07-22.47.31:264][119]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.07-22.47.32:750][119]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.07-22.47.32:750][119]TextureStreamingBuild: Display: Compiling optional shaders took 1.592 seconds.
+[2018.06.07-22.47.32:844][119]LogLevel: Display: Export Material TexCoord Scales took 0.094 seconds.
+[2018.06.07-22.47.32:872][119]TextureStreamingBuild: Display: Build Texture Streaming took 0.025 seconds.
+[2018.06.07-22.47.32:914][119]LogEditorBuildUtils: Build time 0:01
+[2018.06.07-22.47.38:496][152]LogSlate: Window 'Save Asset As' being destroyed
+[2018.06.07-22.47.41:183][179]LogSlate: Took 0.028953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.06.07-22.47.49:299][252]LogSlate: Window 'Master Sequence Settings' being destroyed
+[2018.06.07-22.47.54:680][300]LogSlate: Window 'Sequenciador' being destroyed
+[2018.06.07-22.47.54:681][300]LogSlate: Window 'Sequenciador' being destroyed
+[2018.06.07-22.48.07:697][440]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2018.06.07-22.48.07:759][440]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2018.06.07-22.53.56:593][491]LogSlate: Window 'Save Asset As' being destroyed
+[2018.06.07-22.53.59:892][564]LogSavePackage: Save=141.11ms
+[2018.06.07-22.53.59:892][564]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto39E6E34CA4D306ED9D1CE33B99BA1D0FC.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.06.07-22.53.59:894][564]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.06.07-22.53.59:901][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.262
+[2018.06.07-22.53.59:901][564]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.262
+[2018.06.07-22.53.59:903][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/SequenceMaster] ([1] browsable assets)...
+[2018.06.07-22.53.59:903][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/SequenceMaster]
+[2018.06.07-22.53.59:915][564]LogSavePackage: Save=10.07ms
+[2018.06.07-22.53.59:915][564]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/SequenceMaster_Auto36529B7AB402C8EDA634C929EC8BFBFAC.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/SequenceMaster_Auto3.uasset'
+[2018.06.07-22.53.59:917][564]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/SequenceMaster_Auto3.uasset
+[2018.06.07-22.53.59:918][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/shots/shot0010/shot0010_001] ([1] browsable assets)...
+[2018.06.07-22.53.59:918][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/shots/shot0010/shot0010_001]
+[2018.06.07-22.53.59:936][564]LogSavePackage: Save=13.79ms
+[2018.06.07-22.53.59:936][564]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/shot0010_001_Auto30CD327F84C4FD1A0109227A4BD0C2ECF.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0010/shot0010_001_Auto3.uasset'
+[2018.06.07-22.53.59:937][564]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0010/shot0010_001_Auto3.uasset
+[2018.06.07-22.53.59:938][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/shots/shot0020/shot0020_001] ([1] browsable assets)...
+[2018.06.07-22.53.59:938][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/shots/shot0020/shot0020_001]
+[2018.06.07-22.53.59:962][564]LogSavePackage: Save=21.89ms
+[2018.06.07-22.53.59:962][564]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/shot0020_001_Auto30A334D83485243CCB282E49F8A1F6B7D.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0020/shot0020_001_Auto3.uasset'
+[2018.06.07-22.53.59:963][564]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0020/shot0020_001_Auto3.uasset
+[2018.06.07-22.53.59:964][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/shots/shot0030/shot0030_001] ([1] browsable assets)...
+[2018.06.07-22.53.59:964][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/shots/shot0030/shot0030_001]
+[2018.06.07-22.53.59:980][564]LogSavePackage: Save=13.45ms
+[2018.06.07-22.53.59:980][564]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/shot0030_001_Auto3D7FF821A468626B320F2A3B62A19E808.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0030/shot0030_001_Auto3.uasset'
+[2018.06.07-22.53.59:981][564]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0030/shot0030_001_Auto3.uasset
+[2018.06.07-22.53.59:982][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/shots/shot0040/shot0040_001] ([1] browsable assets)...
+[2018.06.07-22.53.59:982][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/shots/shot0040/shot0040_001]
+[2018.06.07-22.53.59:998][564]LogSavePackage: Save=13.91ms
+[2018.06.07-22.53.59:998][564]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/shot0040_001_Auto352E0668D4C8E7C81581609ADED91CEF1.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0040/shot0040_001_Auto3.uasset'
+[2018.06.07-22.54.00:000][564]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0040/shot0040_001_Auto3.uasset
+[2018.06.07-22.54.00:000][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/shots/shot0050/shot0050_001] ([1] browsable assets)...
+[2018.06.07-22.54.00:000][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/shots/shot0050/shot0050_001]
+[2018.06.07-22.54.00:017][564]LogSavePackage: Save=13.82ms
+[2018.06.07-22.54.00:017][564]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/shot0050_001_Auto3BD0CE09C40733B11C3BE078FCA6C6404.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0050/shot0050_001_Auto3.uasset'
+[2018.06.07-22.54.00:018][564]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shots/shot0050/shot0050_001_Auto3.uasset
+[2018.06.07-22.54.00:018][564]LogFileHelpers: Auto-saving content packages took 0.117
+[2018.06.07-22.54.10:334][795]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80b07018, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-22.54.23:875][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80b07018, Size=4
+[2018.06.07-22.54.23:875][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc1d2a9718, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_44:ExecuteUbergraph_apple-certa
+[2018.06.07-22.54.23:879][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc1d2aafe0, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-22.55.24:432][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.01.41:876][997]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc1d2aafe0, Size=4
+[2018.06.07-23.01.41:876][997]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd4588, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_46:ExecuteUbergraph_apple-certa
+[2018.06.07-23.01.41:880][997]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd6390, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.01.50:386][552]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd6390, Size=4
+[2018.06.07-23.01.50:386][552]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8e2ec940, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_48:ExecuteUbergraph_apple-certa
+[2018.06.07-23.01.50:389][552]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd4fc8, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.01.51:391][608]LogSlate: Took 0.027512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.07-23.01.53:165][715]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd4fc8, Size=4
+[2018.06.07-23.01.53:165][715]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd4fc8, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_50:ExecuteUbergraph_apple-certa
+[2018.06.07-23.01.53:169][715]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd50b8, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.03.48:203][626]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd50b8, Size=4
+[2018.06.07-23.03.48:203][626]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd50b8, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_52:ExecuteUbergraph_apple-certa
+[2018.06.07-23.03.48:206][626]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd6780, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.03.53:736][ 87]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd6780, Size=4
+[2018.06.07-23.03.53:736][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd6780, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_54:ExecuteUbergraph_apple-certa
+[2018.06.07-23.03.53:740][ 87]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80fd6c60, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.04.57:546][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd6780, Size=4
+[2018.06.07-23.04.57:546][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd50b8, Size=4
+[2018.06.07-23.04.57:546][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd4fc8, Size=4
+[2018.06.07-23.04.57:546][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8e2ec940, Size=4
+[2018.06.07-23.04.57:546][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd4588, Size=4
+[2018.06.07-23.04.57:546][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc1d2a9718, Size=4
+[2018.06.07-23.04.57:714][765]LogSavePackage: Save=144.44ms
+[2018.06.07-23.04.57:714][765]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto4932E8256465D3EEA2BC7329E87163AF7.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.06.07-23.04.57:716][765]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.06.07-23.04.57:719][765]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.195
+[2018.06.07-23.04.57:719][765]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2018.06.07-23.04.57:722][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/arvores/apple-certa] ([1] browsable assets)...
+[2018.06.07-23.04.57:791][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/arvores/apple-certa.apple-certa]
+[2018.06.07-23.04.57:791][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/arvores/apple-certa]
+[2018.06.07-23.04.57:791][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple-certa" FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.06.07-23.04.57:888][765]LogSavePackage: Save=52.58ms
+[2018.06.07-23.04.57:888][765]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/apple-certa_Auto498956C794EF5304BAE4A7A896D66E097.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto4.uasset'
+[2018.06.07-23.04.57:889][765]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto4.uasset
+[2018.06.07-23.04.57:889][765]LogFileHelpers: Auto-saving content packages took 0.168
+[2018.06.07-23.09.19:250][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80fd6c60, Size=4
+[2018.06.07-23.09.19:250][639]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc88a4a3c0, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_60:ExecuteUbergraph_apple-certa
+[2018.06.07-23.09.19:275][639]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc2fa41420, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.09.19:295][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc2fa41420, Size=4
+[2018.06.07-23.09.19:295][639]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc2fa41420, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_62:ExecuteUbergraph_apple-certa
+[2018.06.07-23.09.19:299][639]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc2fa423c0, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.11.54:316][473]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc2fa423c0, Size=4
+[2018.06.07-23.11.54:316][473]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc97cbbd08, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_64:ExecuteUbergraph_apple-certa
+[2018.06.07-23.11.54:320][473]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc97cb8148, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.15.12:985][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc88a4a3c0, Size=4
+[2018.06.07-23.15.12:985][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc2fa41420, Size=4
+[2018.06.07-23.15.12:985][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc97cbbd08, Size=4
+[2018.06.07-23.15.13:188][597]LogSavePackage: Save=140.26ms
+[2018.06.07-23.15.13:189][597]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto5DFBF3A4040B692F57D101B9507105212.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.06.07-23.15.13:191][597]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.06.07-23.15.13:193][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.232
+[2018.06.07-23.15.13:193][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2018.06.07-23.15.13:196][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/arvores/apple-certa] ([1] browsable assets)...
+[2018.06.07-23.15.13:255][597]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/arvores/apple-certa.apple-certa]
+[2018.06.07-23.15.13:255][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/arvores/apple-certa]
+[2018.06.07-23.15.13:255][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple-certa" FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.06.07-23.15.13:322][597]LogSavePackage: Save=52.70ms
+[2018.06.07-23.15.13:322][597]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/apple-certa_Auto5C7D40D7E48E352FE09DF72A138DE5937.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto5.uasset'
+[2018.06.07-23.15.13:324][597]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto5.uasset
+[2018.06.07-23.15.13:324][597]LogFileHelpers: Auto-saving content packages took 0.129
+[2018.06.07-23.22.07:250][644]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.22.07:267][644]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc97cb8148, Size=4
+[2018.06.07-23.22.07:267][644]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc98b25ef8, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_70:ExecuteUbergraph_apple-certa
+[2018.06.07-23.22.07:282][644]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc2aca5360, Size=224
+[2018.06.07-23.22.07:282][644]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc32588c60, Size=224, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_72:ExecuteUbergraph_apple-certa
+[2018.06.07-23.22.07:295][644]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8cf53900, Size=232, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.22.07:744][644]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc98b25ef8, Size=4
+[2018.06.07-23.25.24:390][889]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: O caminho deve começar com “/”
+[2018.06.07-23.25.24:391][889]LogLinker: Warning: Não é possível encontrar o arquivo “Engine/Tutorial/Installation/InstallingVisualStudioTutorial”
+[2018.06.07-23.25.24:391][889]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: O caminho deve começar com “/”
+[2018.06.07-23.25.24:391][889]LogLinker: Warning: Não é possível encontrar o arquivo “Engine/Tutorial/Installation/InstallingVisualStudioTutorial”
+[2018.06.07-23.25.24:391][889]LogUObjectGlobals: Warning: Falha ao encontrar objeto “Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial”
+[2018.06.07-23.26.00:193][362]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc32588c60, Size=224
+[2018.06.07-23.26.00:351][362]LogSavePackage: Save=135.33ms
+[2018.06.07-23.26.00:351][362]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto67DC443644A3312427062C785B6B041CD.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2018.06.07-23.26.00:354][362]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap
+[2018.06.07-23.26.00:356][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.183
+[2018.06.07-23.26.00:356][362]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.183
+[2018.06.07-23.26.00:359][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/arvores/apple-certa] ([1] browsable assets)...
+[2018.06.07-23.26.00:417][362]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/arvores/apple-certa.apple-certa]
+[2018.06.07-23.26.00:417][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/arvores/apple-certa]
+[2018.06.07-23.26.00:417][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple-certa" FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.06.07-23.26.00:484][362]LogSavePackage: Save=53.35ms
+[2018.06.07-23.26.00:484][362]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/apple-certa_Auto6E95C2E684C505C824E2F6489972338C0.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto6.uasset'
+[2018.06.07-23.26.00:485][362]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/arvores/apple-certa_Auto6.uasset
+[2018.06.07-23.26.00:486][362]LogFileHelpers: Auto-saving content packages took 0.128
+[2018.06.07-23.28.31:040][632]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.28.31:080][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8cf53900, Size=232
+[2018.06.07-23.28.31:080][632]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc9d695f00, Size=232, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_80:ExecuteUbergraph_apple-certa
+[2018.06.07-23.28.31:086][632]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc87c8e940, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.29.57:959][845]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb55cf078, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.30.18:341][329]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb55cf078, Size=4
+[2018.06.07-23.30.18:341][329]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc80b049d8, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_84:ExecuteUbergraph_apple-certa
+[2018.06.07-23.30.18:345][329]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc91414b60, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.31.16:438][774]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.31.16:453][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc91414b60, Size=4
+[2018.06.07-23.31.16:453][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc968cf748, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_86:ExecuteUbergraph_apple-certa
+[2018.06.07-23.31.16:469][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc87c8e940, Size=408
+[2018.06.07-23.31.16:469][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb1046780, Size=408, apple-certa_C_403 Function /Engine/Transient.REINST_apple-certa_C_88:ExecuteUbergraph_apple-certa
+[2018.06.07-23.31.16:475][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb10442c0, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.31.16:932][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc80b049d8, Size=4
+[2018.06.07-23.31.16:932][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc9d695f00, Size=232
+[2018.06.07-23.31.16:932][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc968cf748, Size=4
+[2018.06.07-23.31.21:833][  4]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.31.21:876][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.31.21:876][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.31.21:877][  4]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:31:21)
+[2018.06.07-23.31.21:877][  4]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.31.21:908][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031058s)
+[2018.06.07-23.31.21:909][  4]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.31.21:909][  4]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2018.06.07-23.31.21:909][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032518s)
+[2018.06.07-23.31.21:928][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb1046780, Size=408
+[2018.06.07-23.31.21:932][  4]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.31.21:950][  4]LogInit: FAudioDevice initialized.
+[2018.06.07-23.31.21:988][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.31.21:991][  4]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.31.21
+[2018.06.07-23.31.22:008][  4]LogWorld: Bringing up level for play took: 0.018979
+[2018.06.07-23.31.22:009][  4]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,031
+[2018.06.07-23.31.22:010][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.31.25:845][ 58]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.31.26:633][ 70]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.31.38:733][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.31.38:828][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.31.39:989][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.31.40:068][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.31.40:087][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.31.40:087][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.31.40:087][271]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:31:40)
+[2018.06.07-23.31.40:087][271]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.31.40:101][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013976s)
+[2018.06.07-23.31.40:102][271]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.31.40:102][271]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.06.07-23.31.40:102][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014884s)
+[2018.06.07-23.31.40:123][271]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.31.40:134][271]LogInit: FAudioDevice initialized.
+[2018.06.07-23.31.40:182][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.31.40:184][271]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.31.40
+[2018.06.07-23.31.40:184][271]LogWorld: Bringing up level for play took: 0.002075
+[2018.06.07-23.31.40:186][271]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,207
+[2018.06.07-23.31.40:186][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.31.44:080][328]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.31.44:897][340]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.34.43:167][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.34.43:265][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.35.27:503][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.35.52:106][390]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.35.52:137][390]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb10442c0, Size=408
+[2018.06.07-23.35.52:137][390]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcacd0bc80, Size=408, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_92:ExecuteUbergraph_apple-certa
+[2018.06.07-23.35.52:142][390]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc0f7e8800, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.35.55:845][533]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.35.55:884][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.35.55:884][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.35.55:884][533]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:35:55)
+[2018.06.07-23.35.55:884][533]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.35.55:898][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014349s)
+[2018.06.07-23.35.55:899][533]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.35.55:899][533]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2018.06.07-23.35.55:899][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015357s)
+[2018.06.07-23.35.55:919][533]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcacd0bc80, Size=408
+[2018.06.07-23.35.55:936][533]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.35.55:949][533]LogInit: FAudioDevice initialized.
+[2018.06.07-23.35.55:984][533]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.35.55:987][533]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.35.55
+[2018.06.07-23.35.55:987][533]LogWorld: Bringing up level for play took: 0.002380
+[2018.06.07-23.35.55:989][533]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,01
+[2018.06.07-23.35.55:989][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.36.00:636][601]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.36.18:267][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.36.18:363][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.36.19:517][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.36.19:596][883]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.36.19:615][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.36.19:615][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.36.19:616][883]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:36:19)
+[2018.06.07-23.36.19:616][883]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.36.19:631][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015021s)
+[2018.06.07-23.36.19:631][883]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.36.19:631][883]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.06.07-23.36.19:632][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015902s)
+[2018.06.07-23.36.19:654][883]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.36.19:666][883]LogInit: FAudioDevice initialized.
+[2018.06.07-23.36.19:712][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.36.19:714][883]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.36.19
+[2018.06.07-23.36.19:715][883]LogWorld: Bringing up level for play took: 0.002193
+[2018.06.07-23.36.19:716][883]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,262
+[2018.06.07-23.36.19:716][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.36.24:421][952]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.36.32:947][ 82]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.36.33:041][ 82]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.36.34:900][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.37.02:764][696]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.37.02:794][696]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc0f7e8800, Size=408
+[2018.06.07-23.37.02:794][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb090dd00, Size=408, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_96:ExecuteUbergraph_apple-certa
+[2018.06.07-23.37.02:800][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc2d45bac0, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.37.26:699][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple-certa" FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset" SILENT=true
+[2018.06.07-23.37.26:770][517]LogSavePackage: Save=54.94ms
+[2018.06.07-23.37.26:771][517]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/apple-certaDE10E2F5462B52C735482489C30DD95F.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset'
+[2018.06.07-23.37.26:779][517]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset
+[2018.06.07-23.37.30:380][649]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.37.30:414][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.37.30:414][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.37.30:414][649]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:37:30)
+[2018.06.07-23.37.30:414][649]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.37.30:429][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014499s)
+[2018.06.07-23.37.30:429][649]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.37.30:430][649]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.06.07-23.37.30:430][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015486s)
+[2018.06.07-23.37.30:450][649]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb090dd00, Size=408
+[2018.06.07-23.37.30:471][649]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.37.30:483][649]LogInit: FAudioDevice initialized.
+[2018.06.07-23.37.30:514][649]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.37.30:517][649]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.37.30
+[2018.06.07-23.37.30:517][649]LogWorld: Bringing up level for play took: 0.002370
+[2018.06.07-23.37.30:519][649]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,541
+[2018.06.07-23.37.30:519][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.37.35:169][717]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.37.41:153][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.37.41:247][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.37.42:412][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.38.09:872][977]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e7350, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.09:892][977]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e7350, Size=4
+[2018.06.07-23.38.09:892][977]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e7350, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_100:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.09:896][977]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e5bf8, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.20:190][735]LogEditorTransaction: Undo Mover Nós
+[2018.06.07-23.38.20:198][735]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e5bf8, Size=4
+[2018.06.07-23.38.20:199][735]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc9882b7f8, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_102:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.20:203][735]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc988289a8, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.22:006][852]LogEditorTransaction: Undo Paste clipboard contents
+[2018.06.07-23.38.22:033][852]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc988289a8, Size=4
+[2018.06.07-23.38.22:033][852]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e5bb0, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_104:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.22:037][852]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e5490, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.33:501][750]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Timeline /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_Timeline_0 or K2Node_Timeline /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_Timeline_0
+[2018.06.07-23.38.33:501][750]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_142 or K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_142
+[2018.06.07-23.38.33:502][750]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1748 or K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1748
+[2018.06.07-23.38.33:502][750]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1749 or K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1749
+[2018.06.07-23.38.33:502][750]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1753 or K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1753
+[2018.06.07-23.38.33:502][750]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_151 or K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_151
+[2018.06.07-23.38.33:502][750]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/arvores/apple-certa.apple-certa:EventGraph.EdGraphNode_Comment_36 or EdGraphNode_Comment /Game/arvores/apple-certa.apple-certa:EventGraph.EdGraphNode_Comment_36
+[2018.06.07-23.38.33:505][750]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e5490, Size=4
+[2018.06.07-23.38.33:505][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1cd480, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_106:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.33:509][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1cc108, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.33:527][750]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1cc108, Size=4
+[2018.06.07-23.38.33:527][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1cc108, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_108:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.33:531][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1cccf8, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.45:247][636]LogEditorTransaction: Undo Mover Nós
+[2018.06.07-23.38.45:248][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1cccf8, Size=4
+[2018.06.07-23.38.45:248][636]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1cccf8, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_110:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.45:253][636]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1ceed0, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.46:013][675]LogEditorTransaction: Undo Paste clipboard contents
+[2018.06.07-23.38.46:017][675]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1ceed0, Size=4
+[2018.06.07-23.38.46:017][675]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e6138, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_112:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.46:021][675]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e4c50, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.58:695][646]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Timeline /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_Timeline_0 or K2Node_Timeline /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_Timeline_0
+[2018.06.07-23.38.58:695][646]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_142 or K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_142
+[2018.06.07-23.38.58:695][646]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1748 or K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1748
+[2018.06.07-23.38.58:695][646]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1749 or K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1749
+[2018.06.07-23.38.58:695][646]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1753 or K2Node_VariableGet /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_VariableGet_1753
+[2018.06.07-23.38.58:696][646]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_151 or K2Node_CallFunction /Game/arvores/apple-certa.apple-certa:EventGraph.K2Node_CallFunction_151
+[2018.06.07-23.38.58:696][646]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/arvores/apple-certa.apple-certa:EventGraph.EdGraphNode_Comment_36 or EdGraphNode_Comment /Game/arvores/apple-certa.apple-certa:EventGraph.EdGraphNode_Comment_36
+[2018.06.07-23.38.58:698][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e4c50, Size=4
+[2018.06.07-23.38.58:698][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1ce8f0, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_114:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.58:703][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1cd668, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.58:722][646]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1cd668, Size=4
+[2018.06.07-23.38.58:722][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1cd668, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_116:ExecuteUbergraph_apple-certa
+[2018.06.07-23.38.58:726][646]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc8b1ccbb0, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.40.18:766][554]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.40.18:784][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1ccbb0, Size=4
+[2018.06.07-23.40.18:785][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e6b08, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_118:ExecuteUbergraph_apple-certa
+[2018.06.07-23.40.18:803][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc2d45bac0, Size=408
+[2018.06.07-23.40.18:803][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb5b697c0, Size=408, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_120:ExecuteUbergraph_apple-certa
+[2018.06.07-23.40.18:810][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcac55df80, Size=560, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1cd480, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e5bb0, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc9882b7f8, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e7350, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1cc108, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1cccf8, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e6138, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1ce8f0, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc8b1cd668, Size=4
+[2018.06.07-23.40.19:283][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e6b08, Size=4
+[2018.06.07-23.40.23:910][796]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.40.23:950][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.40.23:950][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.40.23:950][796]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:40:23)
+[2018.06.07-23.40.23:950][796]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.40.23:966][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015415s)
+[2018.06.07-23.40.23:967][796]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.40.23:967][796]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.06.07-23.40.23:967][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016447s)
+[2018.06.07-23.40.23:987][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb5b697c0, Size=408
+[2018.06.07-23.40.23:999][796]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.40.24:012][796]LogInit: FAudioDevice initialized.
+[2018.06.07-23.40.24:043][796]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.40.24:046][796]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.40.24
+[2018.06.07-23.40.24:046][796]LogWorld: Bringing up level for play took: 0.002351
+[2018.06.07-23.40.24:047][796]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,069
+[2018.06.07-23.40.24:048][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.40.28:689][864]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.40.59:671][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.40.59:764][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.41.01:347][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.41.18:430][530]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.41.18:466][530]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcac55df80, Size=560
+[2018.06.07-23.41.18:466][530]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc10023600, Size=560, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_124:ExecuteUbergraph_apple-certa
+[2018.06.07-23.41.18:473][530]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc4bee7b00, Size=560, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.41.26:839][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.41.26:876][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.41.26:876][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.41.26:876][ 54]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:41:26)
+[2018.06.07-23.41.26:876][ 54]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.41.26:891][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014079s)
+[2018.06.07-23.41.26:891][ 54]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.41.26:891][ 54]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.06.07-23.41.26:891][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015001s)
+[2018.06.07-23.41.26:909][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc10023600, Size=560
+[2018.06.07-23.41.26:928][ 54]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.41.26:941][ 54]LogInit: FAudioDevice initialized.
+[2018.06.07-23.41.26:973][ 54]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.41.26:976][ 54]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.41.26
+[2018.06.07-23.41.26:976][ 54]LogWorld: Bringing up level for play took: 0.002242
+[2018.06.07-23.41.26:978][ 54]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,999
+[2018.06.07-23.41.26:978][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.41.31:647][122]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.41.50:342][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.41.50:442][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.41.52:072][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.43.03:159][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.07-23.43.06:729][546]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc9882b9c8, Size=4, Default__SKEL_apple-certa_C Function /Game/arvores/apple-certa.SKEL_apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.43.09:489][549]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.07-23.43.24:885][666]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.43.24:900][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc9882b9c8, Size=4
+[2018.06.07-23.43.24:900][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc975e6208, Size=4, Default__SKEL_apple-certa_C Function /Engine/Transient.REINST_SKEL_apple-certa_C_128:ExecuteUbergraph_apple-certa
+[2018.06.07-23.43.24:916][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc4bee7b00, Size=560
+[2018.06.07-23.43.24:916][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc599dac00, Size=560, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_130:ExecuteUbergraph_apple-certa
+[2018.06.07-23.43.24:922][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc4c139280, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.43.25:378][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc975e6208, Size=4
+[2018.06.07-23.43.27:378][745]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.43.27:411][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.43.27:411][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.43.27:411][745]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:43:27)
+[2018.06.07-23.43.27:411][745]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.43.27:426][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014365s)
+[2018.06.07-23.43.27:426][745]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.43.27:426][745]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.06.07-23.43.27:426][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015370s)
+[2018.06.07-23.43.27:444][745]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc599dac00, Size=560
+[2018.06.07-23.43.27:465][745]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.43.27:478][745]LogInit: FAudioDevice initialized.
+[2018.06.07-23.43.27:510][745]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.43.27:512][745]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.43.27
+[2018.06.07-23.43.27:512][745]LogWorld: Bringing up level for play took: 0.002165
+[2018.06.07-23.43.27:514][745]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,465
+[2018.06.07-23.43.27:514][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.43.30:113][782]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.43.43:475][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.43.43:573][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.43.44:511][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.44.45:671][572]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.44.45:702][572]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc4c139280, Size=408
+[2018.06.07-23.44.45:702][572]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc9063c800, Size=408, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_134:ExecuteUbergraph_apple-certa
+[2018.06.07-23.44.45:708][572]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bc9063c2c0, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.44.48:826][695]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.44.48:859][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.44.48:860][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.44.48:860][695]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:44:48)
+[2018.06.07-23.44.48:860][695]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.44.48:873][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012703s)
+[2018.06.07-23.44.48:873][695]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.44.48:873][695]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.06.07-23.44.48:873][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013681s)
+[2018.06.07-23.44.48:896][695]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc9063c800, Size=408
+[2018.06.07-23.44.48:917][695]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.44.48:930][695]LogInit: FAudioDevice initialized.
+[2018.06.07-23.44.48:961][695]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.44.48:964][695]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.44.48
+[2018.06.07-23.44.48:965][695]LogWorld: Bringing up level for play took: 0.002604
+[2018.06.07-23.44.48:966][695]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,987
+[2018.06.07-23.44.48:966][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.44.54:600][778]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.44.55:601][793]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.44.58:589][838]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.45.08:658][990]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.45.09:534][  4]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.45.12:586][ 50]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.45.22:592][202]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.45.23:588][217]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.45.26:577][262]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.45.33:968][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.45.34:065][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.45.35:375][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.46.18:231][719]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.46.18:261][719]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bc9063c2c0, Size=408
+[2018.06.07-23.46.18:261][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb4731b40, Size=408, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_138:ExecuteUbergraph_apple-certa
+[2018.06.07-23.46.18:267][719]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb4732940, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.46.20:476][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.46.20:515][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.46.20:515][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.46.20:515][781]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:46:20)
+[2018.06.07-23.46.20:515][781]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.46.20:528][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012966s)
+[2018.06.07-23.46.20:529][781]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.46.20:529][781]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2018.06.07-23.46.20:529][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013890s)
+[2018.06.07-23.46.20:547][781]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb4731b40, Size=408
+[2018.06.07-23.46.20:564][781]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.46.20:577][781]LogInit: FAudioDevice initialized.
+[2018.06.07-23.46.20:612][781]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.46.20:615][781]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.46.20
+[2018.06.07-23.46.20:615][781]LogWorld: Bringing up level for play took: 0.002197
+[2018.06.07-23.46.20:616][781]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,638
+[2018.06.07-23.46.20:617][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.46.25:278][849]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.46.31:432][943]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.46.36:286][ 17]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.46.44:523][143]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.46.49:374][217]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.46.57:600][343]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.47.02:467][417]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.47.07:167][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.47.07:264][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.47.08:105][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.07-23.47.40:454][460]BlueprintLog: New page: Compilar apple-certa
+[2018.06.07-23.47.40:484][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb4732940, Size=408
+[2018.06.07-23.47.40:484][460]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb12fa240, Size=408, Default__apple-certa_C Function /Engine/Transient.REINST_apple-certa_C_142:ExecuteUbergraph_apple-certa
+[2018.06.07-23.47.40:490][460]LogUObjectGlobals: Created PersistentFrame Addr=0x000001bcb5209b40, Size=408, Default__apple-certa_C Function /Game/arvores/apple-certa.apple-certa_C:ExecuteUbergraph_apple-certa
+[2018.06.07-23.47.54:767][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/arvores/apple-certa" FILE="../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset" SILENT=true
+[2018.06.07-23.47.54:838][ 38]LogSavePackage: Save=53.67ms
+[2018.06.07-23.47.54:838][ 38]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/apple-certa0090EE2E47C8F08F30C790A1BEF0315D.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset'
+[2018.06.07-23.47.54:841][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Content/arvores/apple-certa.uasset
+[2018.06.07-23.47.58:004][184]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.07-23.47.58:027][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.47.58:027][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.07-23.47.58:028][184]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/06/2018 17:47:58)
+[2018.06.07-23.47.58:028][184]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.07-23.47.58:041][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012844s)
+[2018.06.07-23.47.58:041][184]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.07-23.47.58:041][184]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2018.06.07-23.47.58:041][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013874s)
+[2018.06.07-23.47.58:060][184]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001bcb12fa240, Size=408
+[2018.06.07-23.47.58:092][184]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.07-23.47.58:105][184]LogInit: FAudioDevice initialized.
+[2018.06.07-23.47.58:138][184]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.07-23.47.58:140][184]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.07-20.47.58
+[2018.06.07-23.47.58:141][184]LogWorld: Bringing up level for play took: 0.002225
+[2018.06.07-23.47.58:142][184]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,164
+[2018.06.07-23.47.58:142][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.48.02:819][252]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.48.07:035][316]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.48.11:914][390]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.48.14:147][424]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.48.19:074][498]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.48.23:289][562]LogBlueprintUserMessages: [apple3_40] Hello
+[2018.06.07-23.48.26:793][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.48.26:894][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.07-23.48.59:944][780]LogSavePackage: Save=134.46ms
+[2018.06.07-23.48.59:944][780]LogSavePackage: Moving '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto7F00A19D4437A14416E1F22A8612E240C.tmp' to '../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2018.06.07-23.48.59:946][780]LogSavePackage: Display: Finished SavePackage ../../../../../../con8960402/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2018.06.07-23.48.59:948][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.186
+[2018.06.07-23.48.59:948][780]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
