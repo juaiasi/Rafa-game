@@ -491,3 +491,1343 @@ LogInit: Object subsystem initialized
 [2018.06.28-23.06.52:564][954]LogFileHelpers: Auto-saving content packages took 0.125
 [2018.06.28-23.06.59:721][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_13)
 [2018.06.28-23.07.20:497][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.08.36:415][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.08.55:853][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-23.09.28:982][ 51]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.28-23.09.47:258][829]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.09.47:332][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.09.47:332][829]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.28-23.09.47:372][829]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.06.28-23.09.47:391][829]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189a804fc40, Size=296
+[2018.06.28-23.09.47:391][829]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018973781a80, Size=296, ThirdPersonCharacter_C_1487 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_42:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.28-23.09.47:400][829]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189a7f6fc40, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.28-23.09.47:727][829]LogPlayLevel: PlayLevel: Blueprint regeneration took 394 ms (1 blueprints)
+[2018.06.28-23.09.47:727][829]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:09:47)
+[2018.06.28-23.09.47:727][829]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.09.47:821][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094455s)
+[2018.06.28-23.09.47:823][829]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.09.47:823][829]LogPlayLevel: PIE: World Init took: (0.001535s)
+[2018.06.28-23.09.47:823][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.096397s)
+[2018.06.28-23.09.47:851][829]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.09.47:931][829]LogInit: FAudioDevice initialized.
+[2018.06.28-23.09.47:973][829]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.09.48:023][829]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.09.48
+[2018.06.28-23.09.48:030][829]LogWorld: Bringing up level for play took: 0.055757
+[2018.06.28-23.09.48:047][829]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,511
+[2018.06.28-23.09.48:048][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.09.48:115][829]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.06.28-23.09.52:634][983]LogRenderer: Reallocating scene render targets to support 1368x756 Format 10 NumSamples 1 (Frame:156).
+[2018.06.28-23.13.10:813][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.13.10:921][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.13.10:940][982]LogSlate: Window 'RafaGirafa Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.06.28-23.13.10:983][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.16.23:166][743]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.16.23:189][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.16.23:190][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.16.23:190][743]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:16:23)
+[2018.06.28-23.16.23:190][743]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.16.23:279][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089214s)
+[2018.06.28-23.16.23:280][743]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.16.23:280][743]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2018.06.28-23.16.23:281][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.090553s)
+[2018.06.28-23.16.23:307][743]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.16.23:382][743]LogInit: FAudioDevice initialized.
+[2018.06.28-23.16.23:414][743]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.16.23:450][743]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.16.23
+[2018.06.28-23.16.23:456][743]LogWorld: Bringing up level for play took: 0.041269
+[2018.06.28-23.16.23:469][743]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,068
+[2018.06.28-23.16.23:469][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.16.43:868][ 86]Cmd: SELECT NONE
+[2018.06.28-23.16.45:821][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.16.45:899][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.16.45:945][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.20.02:583][935]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018915ba1dc0, Size=32
+[2018.06.28-23.20.02:584][935]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189a09d2ae0, Size=32, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_46:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.20.02:585][935]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189a09d01e0, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.20.03:939][935]LogSavePackage: Save=1360.28ms
+[2018.06.28-23.20.03:939][935]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap9651DC1047C7D62C57BD31AD2CA5627D.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.28-23.20.03:947][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.28-23.20.04:419][935]LogSavePackage: Save=408.02ms
+[2018.06.28-23.20.04:419][935]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_BuiltData3CB97BDC4828025E739A8DAF506DD9C9.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.28-23.20.04:423][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.28-23.20.07:605][125]LogSavePackage: Save=125.72ms
+[2018.06.28-23.20.07:605][125]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonCharacter5438DBA741B9F9189762E8B4E11C1DB9.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.28-23.20.07:612][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.28-23.22.24:852][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.22.24:876][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.22.24:876][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.22.24:876][356]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:22:24)
+[2018.06.28-23.22.24:876][356]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.22.24:969][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093114s)
+[2018.06.28-23.22.24:970][356]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.22.24:971][356]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2018.06.28-23.22.24:971][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.094725s)
+[2018.06.28-23.22.24:995][356]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189a09d2ae0, Size=32
+[2018.06.28-23.22.24:998][356]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.22.25:073][356]LogInit: FAudioDevice initialized.
+[2018.06.28-23.22.25:103][356]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.22.25:141][356]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.22.25
+[2018.06.28-23.22.25:146][356]LogWorld: Bringing up level for play took: 0.042616
+[2018.06.28-23.22.25:159][356]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,378
+[2018.06.28-23.22.25:160][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.22.39:090][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.22.39:132][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.22.42:996][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.22.44:316][584]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.22.44:340][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.22.44:340][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.22.44:340][584]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:22:44)
+[2018.06.28-23.22.44:340][584]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.22.44:442][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100729s)
+[2018.06.28-23.22.44:442][584]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.22.44:443][584]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2018.06.28-23.22.44:443][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.101950s)
+[2018.06.28-23.22.44:468][584]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.22.44:541][584]LogInit: FAudioDevice initialized.
+[2018.06.28-23.22.44:581][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.22.44:628][584]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.22.44
+[2018.06.28-23.22.44:633][584]LogWorld: Bringing up level for play took: 0.050780
+[2018.06.28-23.22.44:649][584]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,113
+[2018.06.28-23.22.44:650][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.23.24:799][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.23.24:824][906]LogSlate: Window 'RafaGirafa Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.06.28-23.23.24:869][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.23.28:338][141]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.23.28:359][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.23.28:360][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.23.28:360][141]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:23:28)
+[2018.06.28-23.23.28:360][141]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.23.28:453][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094270s)
+[2018.06.28-23.23.28:454][141]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.23.28:454][141]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2018.06.28-23.23.28:454][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.095434s)
+[2018.06.28-23.23.28:479][141]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.23.28:555][141]LogInit: FAudioDevice initialized.
+[2018.06.28-23.23.28:596][141]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.23.28:669][141]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.23.28
+[2018.06.28-23.23.28:677][141]LogWorld: Bringing up level for play took: 0.079444
+[2018.06.28-23.23.28:700][141]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,163
+[2018.06.28-23.23.28:702][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.23.57:670][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.23.57:696][140]LogSlate: Window 'RafaGirafa Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.06.28-23.23.57:735][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.24.02:302][451]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.24.02:321][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.24.02:322][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.24.02:322][451]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:24:02)
+[2018.06.28-23.24.02:322][451]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.24.02:411][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088046s)
+[2018.06.28-23.24.02:411][451]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.24.02:412][451]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2018.06.28-23.24.02:412][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.089428s)
+[2018.06.28-23.24.02:436][451]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.24.02:509][451]LogInit: FAudioDevice initialized.
+[2018.06.28-23.24.02:550][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.24.02:593][451]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.24.02
+[2018.06.28-23.24.02:599][451]LogWorld: Bringing up level for play took: 0.048133
+[2018.06.28-23.24.02:616][451]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,079
+[2018.06.28-23.24.02:616][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.24.34:514][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.24.34:534][519]LogSlate: Window 'RafaGirafa Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.06.28-23.24.34:580][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.29.28:958][263]BlueprintLog: New page: Compilar maca_normal
+[2018.06.28-23.29.29:041][263]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018915593100, Size=616
+[2018.06.28-23.29.29:041][263]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189dcef8680, Size=616, Default__maca_normal_C Function /Engine/Transient.REINST_maca_normal_C_50:ExecuteUbergraph_maca_normal
+[2018.06.28-23.29.29:050][263]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189da219300, Size=616, Default__maca_normal_C Function /Game/Objetos/maca_normal.maca_normal_C:ExecuteUbergraph_maca_normal
+[2018.06.28-23.31.16:199][538]LogSlate: Window 'maca_normal*' being destroyed
+[2018.06.28-23.31.17:234][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/maca_normal" FILE="../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/Objetos/maca_normal.uasset" SILENT=true
+[2018.06.28-23.31.17:355][637]LogSavePackage: Save=100.88ms
+[2018.06.28-23.31.17:355][637]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/maca_normal0084508D4C59CAD222D6A49AC17DF4AA.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/Objetos/maca_normal.uasset'
+[2018.06.28-23.31.17:362][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/Objetos/maca_normal.uasset
+[2018.06.28-23.31.19:663][798]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189dcef8680, Size=616
+[2018.06.28-23.31.19:716][798]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189a09d01e0, Size=32
+[2018.06.28-23.31.19:716][798]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189d189db40, Size=32, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_54:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.31.19:718][798]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189d189edc0, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.31.21:119][798]LogSavePackage: Save=1406.76ms
+[2018.06.28-23.31.21:119][798]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap81F139274EEDA1E6E423DA9FC55521AB.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.28-23.31.21:127][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.28-23.31.21:514][798]LogSavePackage: Save=335.90ms
+[2018.06.28-23.31.21:514][798]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_BuiltDataD6C2DCEE4B746859B2E402A8BA33EDB8.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.28-23.31.21:517][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.28-23.31.24:932][993]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.31.25:001][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.31.25:001][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.31.25:001][993]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:31:25)
+[2018.06.28-23.31.25:001][993]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.31.25:088][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086434s)
+[2018.06.28-23.31.25:089][993]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.31.25:089][993]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2018.06.28-23.31.25:090][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.088468s)
+[2018.06.28-23.31.25:114][993]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189d189db40, Size=32
+[2018.06.28-23.31.25:116][993]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.31.25:192][993]LogInit: FAudioDevice initialized.
+[2018.06.28-23.31.25:225][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.31.25:267][993]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.31.25
+[2018.06.28-23.31.25:273][993]LogWorld: Bringing up level for play took: 0.047100
+[2018.06.28-23.31.25:286][993]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,25
+[2018.06.28-23.31.25:287][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.31.46:309][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.31.46:353][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.31.52:330][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.31.54:482][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.31.54:510][875]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2018.06.28-23.31.56:543][995]Cmd: TRANSACTION UNDO
+[2018.06.28-23.31.56:543][995]LogEditorTransaction: Undo Excluir seleção
+[2018.06.28-23.31.56:768][995]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.28-23.31.58:742][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_13)
+[2018.06.28-23.32.03:151][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.32.11:698][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:699][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.11:704][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.11:705][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:705][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:705][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:706][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:706][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:706][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:706][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:707][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:707][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:707][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:708][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:708][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:708][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:709][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:709][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:710][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:710][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:710][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:711][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:711][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:711][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:712][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:712][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:712][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:713][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:713][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:713][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:713][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:714][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:714][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:714][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:715][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:715][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:715][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:716][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:716][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:716][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:716][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:717][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:717][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:717][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:718][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:718][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:718][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:718][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:719][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:719][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:719][831]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.11:744][831]LogEditorActor: Deleted 51 Actors (0.091 secs)
+[2018.06.28-23.32.13:444][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_16)
+[2018.06.28-23.32.19:447][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.32.31:300][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:301][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.31:307][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.31:309][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:310][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:311][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:312][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:312][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:313][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:313][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:313][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:314][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:315][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:315][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:315][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:316][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:316][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:316][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:317][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:317][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:317][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:318][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:318][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:318][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:319][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:319][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:319][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:320][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:320][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:321][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:321][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:321][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:322][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:322][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:322][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:322][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:323][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:323][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:323][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:324][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:324][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:324][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:325][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:325][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:326][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:326][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:326][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:327][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:327][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:327][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:328][954]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.31:352][954]LogEditorActor: Deleted 51 Actors (0.092 secs)
+[2018.06.28-23.32.33:830][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_7)
+[2018.06.28-23.32.37:650][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.32.39:917][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.39:923][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.39:923][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.39:924][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.39:924][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.39:924][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.39:945][427]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2018.06.28-23.32.41:287][427]LogSlate: Window 'Mensagem' being destroyed
+[2018.06.28-23.32.41:292][427]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2018.06.28-23.32.41:293][427]LogEditorActor: Deleted Actor: PostProcessVolume
+[2018.06.28-23.32.41:294][427]LogEditorActor: Deleted Actor: SkyLight
+[2018.06.28-23.32.41:295][427]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.06.28-23.32.41:295][427]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.06.28-23.32.41:296][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.41:304][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.41:304][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:305][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:305][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:305][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:306][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:306][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:307][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:307][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:308][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:308][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:308][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:309][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:309][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:309][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:309][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:310][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:310][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:311][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:311][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:311][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:312][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:312][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:312][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:313][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:313][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:313][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:313][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:314][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:314][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:314][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:315][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:315][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:315][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:316][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:316][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:316][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:317][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:317][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:317][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:317][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:318][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:318][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:318][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:319][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:319][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:319][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:320][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:320][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:320][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:321][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.41:327][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.41:327][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:327][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:328][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:328][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:328][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:329][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:329][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:329][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:329][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:330][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:330][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:331][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:331][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:331][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:332][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:332][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:332][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:332][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:333][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:333][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:333][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:334][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:334][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:334][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:335][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:335][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:335][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:336][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:336][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:336][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:336][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:337][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:337][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:337][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:338][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:338][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:338][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:338][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:339][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:339][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:339][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:342][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:342][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:343][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:343][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:343][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:344][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:344][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:344][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:345][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.41:349][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.41:350][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:350][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:350][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:351][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:351][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:352][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:352][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:352][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:353][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:353][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:353][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:354][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:354][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:354][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:355][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:355][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:355][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:356][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:356][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:357][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:359][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:359][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:360][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:360][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:361][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:361][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:361][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:362][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:362][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:362][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:362][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:363][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:363][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:363][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:364][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:364][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:364][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:365][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:365][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:365][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:365][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:366][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:366][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:366][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:367][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:367][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:367][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:367][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:368][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:368][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.32.41:368][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:369][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:369][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:369][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:369][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:370][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:370][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:371][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:371][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:371][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:371][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:372][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:372][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:372][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:373][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:374][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:375][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:376][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:376][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:376][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:377][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:377][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:377][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:377][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:378][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:378][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:378][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:379][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:379][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:379][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:379][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:380][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:380][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:381][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:381][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:381][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:382][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:382][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:382][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:382][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:383][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:383][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:383][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:384][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:384][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:384][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:384][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:385][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:385][427]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.32.41:559][427]LogEditorActor: Deleted 214 Actors (1.695 secs)
+[2018.06.28-23.32.42:914][514]Cmd: TRANSACTION UNDO
+[2018.06.28-23.32.42:914][514]LogEditorTransaction: Undo Clicando nos Atores
+[2018.06.28-23.32.43:035][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.28-23.32.50:126][969]Cmd: TRANSACTION UNDO
+[2018.06.28-23.32.50:126][969]LogEditorTransaction: Undo Excluir seleção
+[2018.06.28-23.32.50:422][969]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.28-23.32.52:132][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_7)
+[2018.06.28-23.32.58:138][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.33.09:312][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_7)
+[2018.06.28-23.33.12:950][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.33.18:292][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:293][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.33.18:299][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.33.18:299][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:300][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:301][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:301][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:301][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:302][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:302][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:303][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:303][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:304][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:305][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:305][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:306][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:306][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:307][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:307][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:308][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:308][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:308][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:309][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:310][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:310][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:311][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:311][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:312][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:312][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:312][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:313][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:313][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:314][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:314][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:314][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:315][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:315][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:316][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:316][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:317][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:317][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:317][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:318][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:318][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:319][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:319][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:319][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:320][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:321][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:322][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:322][541]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.18:350][541]LogEditorActor: Deleted 51 Actors (0.105 secs)
+[2018.06.28-23.33.20:096][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_10)
+[2018.06.28-23.33.30:257][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.33.40:025][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:025][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.33.40:031][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.33.40:031][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:031][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:032][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:032][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:032][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:033][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:033][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:033][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:034][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:034][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:035][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:037][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:037][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:037][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:038][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:038][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:038][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:039][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:039][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:040][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:040][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:040][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:041][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:041][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:041][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:042][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:042][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:042][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:043][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:043][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:043][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:043][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:044][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:044][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:044][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:045][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:045][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:046][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:046][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:046][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:047][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:047][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:047][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:048][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:048][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:048][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:049][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:049][786]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.40:075][786]LogEditorActor: Deleted 51 Actors (0.084 secs)
+[2018.06.28-23.33.41:344][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_6)
+[2018.06.28-23.33.45:798][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.33.50:108][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:109][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.33.50:113][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.33.50:114][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:114][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:114][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:115][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:115][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:115][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:116][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:116][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:117][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:117][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:117][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:118][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:119][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:120][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:120][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:121][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:121][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:121][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:122][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:122][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:122][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:123][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:123][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:123][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:124][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:124][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:124][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:125][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:125][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:125][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:126][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:126][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:126][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:127][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:127][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:127][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:128][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:128][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:128][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:129][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:129][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:129][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:130][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:130][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:130][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:131][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:131][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:131][362]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.33.50:157][362]LogEditorActor: Deleted 51 Actors (0.084 secs)
+[2018.06.28-23.33.55:788][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.34.14:314][797]Cmd: EDIT COPY
+[2018.06.28-23.34.19:935][128]Cmd: EDIT COPY
+[2018.06.28-23.34.31:766][831]Cmd: EDIT COPY
+[2018.06.28-23.34.32:119][852]Cmd: EDIT PASTE
+[2018.06.28-23.34.47:362][692]Cmd: EDIT COPY
+[2018.06.28-23.34.47:633][707]Cmd: EDIT PASTE
+[2018.06.28-23.34.57:803][254]Cmd: EDIT COPY
+[2018.06.28-23.34.58:020][266]Cmd: EDIT PASTE
+[2018.06.28-23.35.08:871][844]Cmd: EDIT COPY
+[2018.06.28-23.35.09:160][860]Cmd: EDIT PASTE
+[2018.06.28-23.35.22:289][556]Cmd: EDIT COPY
+[2018.06.28-23.35.22:526][569]Cmd: EDIT PASTE
+[2018.06.28-23.35.36:887][317]Cmd: EDIT COPY
+[2018.06.28-23.35.37:122][329]Cmd: EDIT PASTE
+[2018.06.28-23.35.44:008][682]Cmd: EDIT COPY
+[2018.06.28-23.35.44:305][698]Cmd: EDIT PASTE
+[2018.06.28-23.36.01:025][562]Cmd: EDIT COPY
+[2018.06.28-23.36.01:264][575]Cmd: EDIT PASTE
+[2018.06.28-23.36.09:493][  8]Cmd: EDIT COPY
+[2018.06.28-23.36.09:749][ 22]Cmd: EDIT PASTE
+[2018.06.28-23.36.12:391][158]Cmd: EDIT COPY
+[2018.06.28-23.36.12:601][170]Cmd: EDIT PASTE
+[2018.06.28-23.36.17:734][445]Cmd: EDIT COPY
+[2018.06.28-23.36.17:965][458]Cmd: EDIT PASTE
+[2018.06.28-23.36.23:885][763]Cmd: EDIT COPY
+[2018.06.28-23.36.24:152][778]Cmd: EDIT PASTE
+[2018.06.28-23.37.00:117][727]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2018.06.28-23.37.01:297][791]Cmd: DELETE
+[2018.06.28-23.37.01:297][791]Cmd: ACTOR DELETE
+[2018.06.28-23.37.01:350][791]LogEditorActor: Deleted Actor: DocumentationActor
+[2018.06.28-23.37.01:427][791]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2018.06.28-23.37.07:358][112]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall13)
+[2018.06.28-23.37.07:575][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-23.37.09:539][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.28-23.37.10:545][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_20)
+[2018.06.28-23.37.14:585][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.37.15:516][501]Cmd: EDIT COPY
+[2018.06.28-23.37.15:800][512]Cmd: EDIT PASTE
+[2018.06.28-23.37.20:429][667]Cmd: TRANSACTION UNDO
+[2018.06.28-23.37.20:429][667]LogEditorTransaction: Undo Move Actors
+[2018.06.28-23.37.20:618][667]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.arvore_28.StaticMeshComponent0) Component already registered.
+[2018.06.28-23.37.20:798][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.28-23.37.22:089][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_11)
+[2018.06.28-23.37.22:814][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_33)
+[2018.06.28-23.37.25:755][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.37.29:323][101]Cmd: EDIT COPY
+[2018.06.28-23.37.29:646][117]Cmd: EDIT PASTE
+[2018.06.28-23.37.36:432][448]Cmd: EDIT PASTE
+[2018.06.28-23.37.44:050][820]Cmd: EDIT PASTE
+[2018.06.28-23.37.50:135][112]Cmd: EDIT PASTE
+[2018.06.28-23.38.06:422][958]LogEditorViewport: Clicking on Actor (LMB): maca_normal_C (maca_normal1141)
+[2018.06.28-23.38.11:347][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.38.24:355][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.38.28:913][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:914][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.38.28:919][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.38.28:920][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:920][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:921][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:921][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:921][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:922][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:922][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:923][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:923][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:923][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:924][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:924][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:924][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:925][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:925][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:925][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:926][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:926][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:926][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:927][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:927][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:927][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:928][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:928][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:928][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:929][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:929][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:930][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:930][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:930][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:931][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:931][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:931][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:932][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:932][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:932][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:933][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:933][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:933][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:934][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:934][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:934][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:935][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:935][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:935][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:936][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:936][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.28:937][189]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.29:002][189]LogEditorActor: Deleted 51 Actors (0.175 secs)
+[2018.06.28-23.38.31:893][352]LogEditorViewport: Clicking on Actor (LMB): maca_normal_C (maca_normal1126)
+[2018.06.28-23.38.33:399][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.38.37:870][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:871][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.38.37:876][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.38.37:877][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:877][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:877][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:878][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:878][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:878][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:879][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:879][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:880][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:880][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:880][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:881][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:881][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:881][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:882][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:882][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:882][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:883][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:883][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:883][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:883][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:884][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:884][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:885][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:885][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:885][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:886][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:886][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:886][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:887][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:887][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:887][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:888][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:888][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:889][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:889][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:889][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:890][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:890][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:891][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:891][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:891][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:892][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:892][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:892][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:893][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:893][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:893][686]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.37:921][686]LogEditorActor: Deleted 51 Actors (0.129 secs)
+[2018.06.28-23.38.39:954][806]LogEditorViewport: Clicking on Actor (LMB): maca_normal_C (maca_normal1057)
+[2018.06.28-23.38.42:373][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.38.46:123][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:124][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.38.46:129][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.28-23.38.46:129][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:130][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:130][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:131][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:131][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:131][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:131][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:131][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:131][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:132][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:132][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:132][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:133][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:133][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:133][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:134][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:134][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:134][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:134][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:136][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:136][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:136][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:137][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:137][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:137][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:137][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:138][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:138][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:138][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:139][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:139][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:140][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:140][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:140][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:141][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:141][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:141][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:141][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:143][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:143][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:143][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:143][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:143][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:143][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:144][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:144][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:144][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:145][157]LogEditorActor: Deleted Actor: maca_normal_C
+[2018.06.28-23.38.46:172][157]LogEditorActor: Deleted 51 Actors (0.122 secs)
+[2018.06.28-23.38.50:038][383]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.38.50:061][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.38.50:061][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.38.50:061][383]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:38:50)
+[2018.06.28-23.38.50:062][383]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.38.50:241][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179919s)
+[2018.06.28-23.38.50:242][383]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.38.50:243][383]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.06.28-23.38.50:243][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.181410s)
+[2018.06.28-23.38.50:276][383]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.38.50:354][383]LogInit: FAudioDevice initialized.
+[2018.06.28-23.38.50:383][383]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.38.50:506][383]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.38.50
+[2018.06.28-23.38.50:518][383]LogWorld: Bringing up level for play took: 0.133808
+[2018.06.28-23.38.50:541][383]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,004
+[2018.06.28-23.38.50:542][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.39.34:142][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.39.34:195][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.39.35:874][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_21)
+[2018.06.28-23.39.45:445][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.40.10:115][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (arvore_21)
+[2018.06.28-23.40.12:681][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.40.54:354][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-23.41.04:493][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.42.25:736][475]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189d189edc0, Size=32
+[2018.06.28-23.42.25:736][475]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189eeff7440, Size=32, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_58:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.42.25:738][475]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189eeff6c80, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.42.28:428][475]LogSavePackage: Save=2696.44ms
+[2018.06.28-23.42.28:428][475]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_Auto2D414CDB542DBC5179ABB118641E50158.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.06.28-23.42.28:436][475]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.06.28-23.42.28:440][475]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.833
+[2018.06.28-23.42.28:440][475]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.833
+[2018.06.28-23.42.28:447][475]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objetos/arvore_00] ([1] browsable assets)...
+[2018.06.28-23.42.28:476][475]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objetos/arvore_00.arvore_00]
+[2018.06.28-23.42.28:476][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objetos/arvore_00]
+[2018.06.28-23.42.28:476][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/arvore_00" FILE="../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Objetos/arvore_00_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.06.28-23.42.28:505][475]LogSavePackage: Save=12.25ms
+[2018.06.28-23.42.28:505][475]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/arvore_00_Auto266B9ECED4866BB5BFFF2A8A77C99782C.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Objetos/arvore_00_Auto2.uasset'
+[2018.06.28-23.42.28:508][475]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/Objetos/arvore_00_Auto2.uasset
+[2018.06.28-23.42.28:508][475]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.06.28-23.43.28:471][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.28-23.43.53:717][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.44.43:959][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.45.59:101][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.46.05:943][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189eeff7440, Size=32
+[2018.06.28-23.46.05:964][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189eeff6c80, Size=32
+[2018.06.28-23.46.05:964][455]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018922142e00, Size=32, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_62:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.46.05:965][455]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189b7c4fd20, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.46.09:191][455]LogSavePackage: Save=3231.51ms
+[2018.06.28-23.46.09:191][455]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap2E25297646393F96EDBA19938FD7105C.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.28-23.46.09:210][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.28-23.46.09:785][455]LogSavePackage: Save=468.26ms
+[2018.06.28-23.46.09:785][455]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap_BuiltDataD241400D4E31F814C900E8894E0BEB53.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.28-23.46.09:789][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.28-23.46.13:697][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.28-23.46.31:889][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.47.18:798][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.50.43:311][930]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.50.43:333][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.50.43:334][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.50.43:334][930]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:50:43)
+[2018.06.28-23.50.43:334][930]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.50.43:523][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.189252s)
+[2018.06.28-23.50.43:524][930]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.50.43:524][930]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.06.28-23.50.43:524][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.190486s)
+[2018.06.28-23.50.43:555][930]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018922142e00, Size=32
+[2018.06.28-23.50.43:560][930]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.50.43:635][930]LogInit: FAudioDevice initialized.
+[2018.06.28-23.50.43:664][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.50.43:773][930]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.50.43
+[2018.06.28-23.50.43:785][930]LogWorld: Bringing up level for play took: 0.120570
+[2018.06.28-23.50.43:807][930]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,27
+[2018.06.28-23.50.43:807][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.50.49:979][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.50.50:061][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.50.51:383][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.28-23.50.52:467][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.28-23.50.52:487][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.50.52:487][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.28-23.50.52:487][356]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (28/06/2018 17:50:52)
+[2018.06.28-23.50.52:487][356]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.28-23.50.52:656][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168663s)
+[2018.06.28-23.50.52:656][356]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.28-23.50.52:656][356]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2018.06.28-23.50.52:657][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.169786s)
+[2018.06.28-23.50.52:683][356]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.28-23.50.52:807][356]LogInit: FAudioDevice initialized.
+[2018.06.28-23.50.52:846][356]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.28-23.50.52:968][356]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.28-20.50.52
+[2018.06.28-23.50.52:981][356]LogWorld: Bringing up level for play took: 0.134284
+[2018.06.28-23.50.53:005][356]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,468
+[2018.06.28-23.50.53:006][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.51.09:725][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.51.09:751][942]LogSlate: Window 'RafaGirafa Visualização do Jogo Standalone(64-bit/PCD3D_SM5)' being destroyed
+[2018.06.28-23.51.09:811][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.28-23.52.38:407][543]BlueprintLog: New page: Compilar maca_normal
+[2018.06.28-23.52.38:551][543]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189da219300, Size=616
+[2018.06.28-23.52.38:551][543]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189eebcd300, Size=616, Default__maca_normal_C Function /Engine/Transient.REINST_maca_normal_C_66:ExecuteUbergraph_maca_normal
+[2018.06.28-23.52.38:561][543]LogUObjectGlobals: Created PersistentFrame Addr=0x00000189eeb90680, Size=616, Default__maca_normal_C Function /Game/Objetos/maca_normal.maca_normal_C:ExecuteUbergraph_maca_normal
+[2018.06.28-23.55.02:740][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189eebcd300, Size=616
+[2018.06.28-23.55.11:325][366]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2018.06.28-23.55.11:390][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objetos/maca_normal" FILE="../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/Objetos/maca_normal.uasset" SILENT=true
+[2018.06.28-23.55.11:512][366]LogSavePackage: Save=99.20ms
+[2018.06.28-23.55.11:512][366]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/maca_normalEFF0FB9F459A567658EB6DA390143DFD.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/Objetos/maca_normal.uasset'
+[2018.06.28-23.55.11:519][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/Objetos/maca_normal.uasset
+[2018.06.28-23.55.11:713][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189b7c4fd20, Size=32
+[2018.06.28-23.55.11:713][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001899bc3fb60, Size=32, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_70:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.55.11:714][366]LogUObjectGlobals: Created PersistentFrame Addr=0x000001899bc3cec0, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.28-23.55.14:302][366]LogSavePackage: Save=2594.36ms
+[2018.06.28-23.55.14:302][366]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonExampleMap1FF45B9D46EC42390C5C128E9E8AECE3.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.28-23.55.14:311][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.28-23.55.14:335][366]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.812
+[2018.06.28-23.55.14:641][366]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.28-23.55.14:808][366]LogSlate: Window 'RafaGirafa - Editor do Unreal' being destroyed
+[2018.06.28-23.55.15:282][367]Cmd: QUIT_EDITOR
+[2018.06.28-23.55.16:072][367]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.28-23.55.16:183][367]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.28-23.55.16:199][367]LogExit: Preparing to exit.
+[2018.06.28-23.55.19:361][367]LogDirectoryWatcher: A directory notification for 'C:/Users/juaia/Documents/GitHub/Rafa-game/Content/' was aborted.
+[2018.06.28-23.55.20:220][367]LogExit: Editor shut down
+[2018.06.28-23.55.20:251][367]LogExit: Transaction tracking system shut down
+[2018.06.28-23.55.20:252][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189155ae0c0, Size=72
+[2018.06.28-23.55.20:253][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001897e0382a0, Size=4
+[2018.06.28-23.55.20:253][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018933690f40, Size=296
+[2018.06.28-23.55.20:256][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018915c963b0, Size=24
+[2018.06.28-23.55.20:263][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018925719678, Size=24
+[2018.06.28-23.55.20:273][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018908a004e8, Size=4
+[2018.06.28-23.55.20:273][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018908a004e0, Size=4
+[2018.06.28-23.55.20:322][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018973781a80, Size=296
+[2018.06.28-23.55.20:322][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189a7f6fc40, Size=296
+[2018.06.28-23.55.20:326][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000189eeb90680, Size=616
+[2018.06.28-23.55.20:326][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001899bc3fb60, Size=32
+[2018.06.28-23.55.20:326][367]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001899bc3cec0, Size=32
+[2018.06.28-23.55.20:796][367]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.28-23.55.20:796][367]LogDirectoryWatcher: A directory notification for '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/' was aborted.
+[2018.06.28-23.55.20:796][367]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.28-23.55.20:796][367]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.28-23.55.20:796][367]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.28-23.55.20:796][367]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.28-23.55.20:797][367]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.28-23.55.20:797][367]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.28-23.55.23:043][367]LogExit: Object subsystem successfully closed.
+[2018.06.28-23.55.23:524][367]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.28-23.55.23:665][367]LogD3D11RHI: Shutdown
+[2018.06.28-23.55.23:665][367]LogD3D11RHI: CleanupD3DDevice
+[2018.06.28-23.55.23:765][367]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.28-23.55.27:630][367]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (588)
+[2018.06.28-23.55.27:630][367]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (586)
+[2018.06.28-23.55.27:630][367]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (584)
+[2018.06.28-23.55.27:631][367]LogModuleManager: Shutting down and abandoning module PinnedCommandList (582)
+[2018.06.28-23.55.27:631][367]LogModuleManager: Shutting down and abandoning module SkeletonEditor (580)
+[2018.06.28-23.55.27:631][367]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (578)
+[2018.06.28-23.55.27:631][367]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.06.28-23.55.27:631][367]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.28-23.55.27:631][367]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.28-23.55.27:631][367]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.28-23.55.27:656][367]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.28-23.55.27:664][367]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.28-23.55.27:664][367]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.28-23.55.27:664][367]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.28-23.55.27:674][367]LogDirectoryWatcher: A directory notification for 'C:/Users/juaia/Documents/GitHub/Rafa-game/Content/Collections/' was aborted.
+[2018.06.28-23.55.27:675][367]LogDirectoryWatcher: A directory notification for 'C:/Users/juaia/Documents/GitHub/Rafa-game/Content/Developers/juaia/Collections/' was aborted.
+[2018.06.28-23.55.27:675][367]LogDirectoryWatcher: A directory notification for 'C:/Users/juaia/Documents/GitHub/Rafa-game/Saved/Collections/' was aborted.
+[2018.06.28-23.55.27:675][367]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.28-23.55.27:684][367]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.28-23.55.27:684][367]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.28-23.55.27:692][367]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.28-23.55.27:706][367]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.28-23.55.27:706][367]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.28-23.55.27:706][367]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.28-23.55.27:716][367]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.28-23.55.27:716][367]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.28-23.55.27:716][367]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.28-23.55.27:716][367]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.28-23.55.27:716][367]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.28-23.55.27:731][367]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.28-23.55.27:731][367]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.28-23.55.27:731][367]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.28-23.55.27:774][367]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.28-23.55.27:774][367]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.28-23.55.27:895][367]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.28-23.55.27:895][367]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.28-23.55.28:079][367]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.28-23.55.28:079][367]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.28-23.55.28:079][367]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.28-23.55.28:168][367]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.28-23.55.28:169][367]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.28-23.55.28:169][367]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.28-23.55.28:169][367]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.28-23.55.28:169][367]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.28-23.55.28:169][367]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.28-23.55.28:249][367]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.28-23.55.28:258][367]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.28-23.55.28:272][367]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.28-23.55.28:312][367]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.28-23.55.28:324][367]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.28-23.55.28:333][367]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.28-23.55.28:333][367]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.28-23.55.28:333][367]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.28-23.55.28:738][367]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.28-23.55.28:738][367]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.28-23.55.28:738][367]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.28-23.55.28:738][367]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.28-23.55.28:781][367]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.28-23.55.28:793][367]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.28-23.55.28:805][367]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.28-23.55.28:812][367]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.28-23.55.28:812][367]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.28-23.55.28:819][367]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.28-23.55.28:819][367]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.28-23.55.28:825][367]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.28-23.55.28:825][367]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.28-23.55.28:825][367]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.28-23.55.28:826][367]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.28-23.55.28:826][367]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.28-23.55.28:850][367]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.28-23.55.28:856][367]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.28-23.55.28:874][367]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.28-23.55.28:881][367]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.28-23.55.28:887][367]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.28-23.55.28:995][367]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.28-23.55.29:016][367]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.28-23.55.29:043][367]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.28-23.55.29:090][367]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.28-23.55.29:090][367]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.28-23.55.29:108][367]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.28-23.55.29:109][367]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.28-23.55.29:109][367]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.28-23.55.29:109][367]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.28-23.55.29:109][367]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.28-23.55.29:131][367]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.28-23.55.29:131][367]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.28-23.55.29:135][367]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.28-23.55.29:135][367]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.28-23.55.29:151][367]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.28-23.55.29:175][367]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.28-23.55.29:192][367]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.28-23.55.29:204][367]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.28-23.55.29:205][367]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.28-23.55.29:225][367]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.28-23.55.29:247][367]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.28-23.55.29:422][367]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.28-23.55.29:480][367]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.28-23.55.29:480][367]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.28-23.55.29:480][367]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.28-23.55.29:493][367]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.28-23.55.29:496][367]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.28-23.55.29:497][367]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.28-23.55.29:497][367]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.28-23.55.29:511][367]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.28-23.55.29:511][367]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.28-23.55.29:511][367]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.28-23.55.29:511][367]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.28-23.55.29:511][367]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.28-23.55.29:540][367]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.28-23.55.29:540][367]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.28-23.55.29:540][367]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.28-23.55.29:540][367]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.28-23.55.29:555][367]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.28-23.55.29:555][367]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.28-23.55.29:561][367]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.28-23.55.29:561][367]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.28-23.55.29:562][367]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.28-23.55.29:562][367]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.28-23.55.29:562][367]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.28-23.55.29:562][367]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.28-23.55.29:598][367]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.28-23.55.29:629][367]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.28-23.55.29:644][367]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.28-23.55.29:644][367]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.28-23.55.29:659][367]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.28-23.55.29:659][367]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.28-23.55.29:659][367]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.28-23.55.29:668][367]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.28-23.55.29:696][367]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.28-23.55.29:723][367]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.28-23.55.29:733][367]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.28-23.55.29:741][367]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.28-23.55.29:741][367]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.28-23.55.29:742][367]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.28-23.55.29:742][367]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.28-23.55.29:753][367]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.28-23.55.29:760][367]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.28-23.55.29:761][367]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.28-23.55.29:761][367]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.28-23.55.29:761][367]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.28-23.55.29:761][367]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.28-23.55.29:761][367]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.28-23.55.29:761][367]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.28-23.55.29:769][367]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.28-23.55.29:769][367]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.28-23.55.29:896][367]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.28-23.55.30:009][367]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.28-23.55.30:028][367]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.28-23.55.30:028][367]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.28-23.55.30:028][367]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.28-23.55.30:029][367]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.28-23.55.30:050][367]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.28-23.55.30:063][367]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.28-23.55.30:073][367]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.28-23.55.30:075][367]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.28-23.55.30:075][367]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.28-23.55.30:087][367]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.28-23.55.30:089][367]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.28-23.55.30:097][367]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.28-23.55.30:097][367]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.28-23.55.30:097][367]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.28-23.55.30:159][367]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.28-23.55.30:164][367]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.28-23.55.30:180][367]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.28-23.55.30:188][367]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.28-23.55.30:195][367]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.28-23.55.30:195][367]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.28-23.55.30:195][367]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.28-23.55.30:200][367]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.28-23.55.30:200][367]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.28-23.55.30:200][367]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.28-23.55.30:200][367]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.28-23.55.30:223][367]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.28-23.55.30:223][367]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.28-23.55.30:223][367]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.28-23.55.30:263][367]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.28-23.55.30:282][367]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.28-23.55.30:293][367]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.28-23.55.30:293][367]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.28-23.55.30:303][367]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.28-23.55.30:321][367]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.28-23.55.30:331][367]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.28-23.55.30:331][367]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.28-23.55.30:361][367]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.28-23.55.30:361][367]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.28-23.55.30:364][367]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.28-23.55.30:378][367]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.28-23.55.30:378][367]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.28-23.55.30:378][367]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.28-23.55.30:391][367]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.28-23.55.30:405][367]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.28-23.55.30:418][367]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.28-23.55.30:424][367]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.28-23.55.30:433][367]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.28-23.55.30:524][367]LogDerivedDataCache: Shutdown
+[2018.06.28-23.55.30:525][367]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.28-23.55.30:526][367]LogXGEController: Cleaning working directory: C:/Users/juaia/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.28-23.55.30:528][367]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.28-23.55.30:528][367]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.28-23.55.30:552][367]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.28-23.55.30:563][367]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.28-23.55.30:570][367]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.28-23.55.30:587][367]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.28-23.55.30:609][367]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.28-23.55.30:609][367]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.28-23.55.30:609][367]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.28-23.55.30:637][367]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.28-23.55.30:650][367]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.28-23.55.30:651][367]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.28-23.55.30:652][367]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.28-23.55.30:674][367]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.28-23.55.30:674][367]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.28-23.55.30:674][367]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.28-23.55.30:674][367]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.28-23.55.30:674][367]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.28-23.55.30:713][367]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.28-23.55.30:738][367]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.28-23.55.30:754][367]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.28-23.55.30:754][367]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB9B4196-4A9B-1170-E41D-2790122650B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=ba2a9c184e56b7615bd3acbd68d986b9%7Cb7f72ec765e0412e90f1b9e56465f9c5%7Cb92a5e2d-f145-4788-8677-c2c0fe9033ae&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.28-23.55.30:775][367]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.28-23.55.30:801][367]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.28-23.55.30:813][367]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.28-23.55.30:813][367]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.28-23.55.30:835][367]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.28-23.55.30:888][367]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.28-23.55.30:888][367]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.28-23.55.30:888][367]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.28-23.55.30:912][367]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.28-23.55.30:940][367]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.28-23.55.30:940][367]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.28-23.55.30:956][367]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.28-23.55.30:956][367]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.28-23.55.30:956][367]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.28-23.55.30:956][367]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.28-23.55.30:969][367]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.28-23.55.30:969][367]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.28-23.55.30:983][367]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.28-23.55.31:000][367]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.28-23.55.31:028][367]LogExit: Exiting.
+[2018.06.28-23.55.31:126][367]Log file closed, 06/28/18 20:55:31
