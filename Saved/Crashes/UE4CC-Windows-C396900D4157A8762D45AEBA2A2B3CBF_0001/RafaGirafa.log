@@ -1,0 +1,985 @@
+﻿Log file open, 06/29/18 19:41:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RafaGirafa
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1208184346) SRandInit(-1208184346).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.147270
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.393s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SP95I47 (127.0.0.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.29-22.41.35:920][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.29-22.41.35:921][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.29-22.41.35:946][  0]LogInit: Computer: DESKTOP-SP95I47
+[2018.06.29-22.41.35:946][  0]LogInit: User: juaia
+[2018.06.29-22.41.35:946][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.06.29-22.41.35:947][  0]LogInit: High frequency timer resolution =2.835943 MHz
+[2018.06.29-22.41.35:947][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.29-22.41.35:947][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.29-22.41.35:947][  0]LogMemory: Process Physical Memory: 273.04 MB used, 273.04 MB peak
+[2018.06.29-22.41.35:947][  0]LogMemory: Process Virtual Memory: 266.13 MB used, 266.13 MB peak
+[2018.06.29-22.41.35:947][  0]LogMemory: Physical Memory: 3050.23 MB used,  5020.39 MB free, 8070.62 MB total
+[2018.06.29-22.41.35:947][  0]LogMemory: Virtual Memory: 4781.89 MB used,  5020.39 MB free, 134217728.00 MB total
+[2018.06.29-22.41.35:985][  0]LogInit: Using OS detected language (pt-BR).
+[2018.06.29-22.41.35:985][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.06.29-22.41.36:586][  0]LogStreaming: Display: Took  0.602s to EndInitTextLocalization.
+[2018.06.29-22.41.36:586][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.29-22.41.36:695][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.29-22.41.36:695][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.29-22.41.38:956][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.29-22.41.38:969][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.06.29-22.41.38:969][  0]LogD3D11RHI:       128/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.06.29-22.41.39:608][  0]LogD3D11RHI:    1. 'Radeon (TM) R7 M445' (Feature Level 11_0)
+[2018.06.29-22.41.39:608][  0]LogD3D11RHI:       4087/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2018.06.29-22.41.39:610][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.29-22.41.39:610][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.29-22.41.39:610][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.06.29-22.41.39:616][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.29-22.41.39:616][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.29-22.41.39:616][  0]LogWindows: EnumDisplayDevices:
+[2018.06.29-22.41.39:617][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.06.29-22.41.39:617][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.06.29-22.41.39:617][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.06.29-22.41.39:617][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.29-22.41.39:617][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) R7 M445
+[2018.06.29-22.41.39:617][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.29-22.41.39:617][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.29-22.41.39:617][  0]LogRHI: Texture pool is 2861 MB (70% of 4087 MB)
+[2018.06.29-22.41.39:637][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.29-22.41.39:649][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.06.29-22.41.39:650][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Intermediate/Shaders/WorkingDirectory/8268/).
+[2018.06.29-22.41.39:650][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/juaia/AppData/Local/Temp/UnrealShaderWorkingDir/CA7EDCFE49EA49281E75BF98CB33F7DA/'.
+[2018.06.29-22.41.39:967][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.29-22.41.39:980][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.29-22.41.39:994][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.29-22.41.40:007][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.29-22.41.40:021][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.29-22.41.40:034][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.29-22.41.40:048][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.29-22.41.40:061][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.29-22.41.40:068][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.29-22.41.40:080][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.29-22.41.40:091][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.29-22.41.40:102][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.29-22.41.40:113][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.29-22.41.40:125][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.29-22.41.40:136][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.29-22.41.40:159][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.29-22.41.40:160][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.29-22.41.40:171][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.29-22.41.40:173][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.29-22.41.40:211][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.29-22.41.40:222][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.29-22.41.40:238][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.29-22.41.40:250][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.29-22.41.40:261][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.29-22.41.40:273][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.29-22.41.40:273][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.29-22.41.40:410][  0]LogXGEController: Cleaning working directory: C:/Users/juaia/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.29-22.41.40:410][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.29-22.41.40:410][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.29-22.41.40:410][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.29-22.41.41:125][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.29-22.41.41:898][  0]LogDerivedDataCache: Loaded boot cache 0.77s 74MB C:/Users/juaia/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.29-22.41.41:898][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/juaia/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.29-22.41.41:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.29-22.41.41:898][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.29-22.41.41:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.29-22.41.41:898][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.29-22.41.41:942][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.29-22.41.41:955][  0]LogDerivedDataCache: Using Local data cache path C:/Users/juaia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.29-22.41.41:955][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.29-22.41.41:955][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.29-22.41.41:965][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.29-22.41.41:965][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.29-22.41.42:003][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.29-22.41.42:003][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.29-22.41.43:091][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.06.29-22.41.43:397][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.29-22.41.43:546][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.29-22.41.43:549][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.29-22.41.43:549][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.29-22.41.43:550][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.29-22.41.43:550][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.29-22.41.43:550][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.29-22.41.43:582][  0]LogNetVersion: RafaGirafa , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2121433062)
+[2018.06.29-22.41.44:075][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.114359 seconds
+[2018.06.29-22.41.44:081][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.29-22.41.44:081][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.29-22.41.44:081][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.29-22.42.01:725][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.29-22.42.01:758][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.29-22.42.02:426][  0]SourceControl: Controle de origem desativado
+[2018.06.29-22.42.02:427][  0]SourceControl: Controle de origem desativado
+[2018.06.29-22.42.02:455][  0]SourceControl: Controle de origem desativado
+[2018.06.29-22.42.02:482][  0]SourceControl: Controle de origem desativado
+[2018.06.29-22.42.03:323][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.29-22.42.03:587][  0]LogOcInput: OculusInput pre-init called
+[2018.06.29-22.42.03:796][  0]LogEngine: Initializing Engine...
+[2018.06.29-22.42.03:799][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.29-22.42.03:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.29-22.42.03:800][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.29-22.42.04:096][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.29-22.42.04:113][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.29-22.42.05:934][  0]LogInit: FAudioDevice initialized.
+[2018.06.29-22.42.06:229][  0]LogDerivedDataCache: Saved boot cache 0.29s 74MB C:/Users/juaia/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.29-22.42.06:246][  0]LogInit: Texture streaming: Enabled
+[2018.06.29-22.42.06:326][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.29-22.42.06:340][  0]LogInit: Transaction tracking system initialized
+[2018.06.29-22.42.06:367][  0]BlueprintLog: New page: Carregar Editor
+[2018.06.29-22.42.06:497][  0]LocalizationService: Localization service is disabled
+[2018.06.29-22.42.06:815][  0]LogConsoleResponse: Display: 
+[2018.06.29-22.42.08:538][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.29-22.42.08:538][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.29-22.42.08:538][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.29-22.42.08:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.29-22.42.08:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.29-22.42.09:495][  0]LogFileCache: Scanning file cache for directory 'C:/Users/juaia/Documents/GitHub/Rafa-game/Content/' took 0.02s
+[2018.06.29-22.42.10:538][  0]SourceControl: Controle de origem desativado
+[2018.06.29-22.42.10:538][  0]Cmd: MAP LOAD FILE="../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.29-22.42.10:538][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.29-22.42.10:542][  0]MapCheck: New page: Verificação de Mapa
+[2018.06.29-22.42.10:542][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.29-22.42.11:327][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f0073b1f0, Size=72, Default__RafaBlueprint_C Function /Game/RafaGirafa/AnimGir/RafaBlueprint.RafaBlueprint_C:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-22.42.11:333][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f0073b1f0, Size=72
+[2018.06.29-22.42.11:333][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f0072a7f0, Size=72, Default__RafaBlueprint_C Function /Engine/Transient.REINST_RafaBlueprint_C_0:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-22.42.11:339][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f006b0950, Size=72, Default__RafaBlueprint_C Function /Game/RafaGirafa/AnimGir/RafaBlueprint.RafaBlueprint_C:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-22.42.11:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f00687600, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.29-22.42.11:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f00737bc8, Size=4, Default__GAMEOVER_C Function /Game/UI/GAMEOVER.GAMEOVER_C:ExecuteUbergraph_GAMEOVER
+[2018.06.29-22.42.11:766][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f00737bc8, Size=4
+[2018.06.29-22.42.11:766][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f00737bc8, Size=4, Default__GAMEOVER_C Function /Engine/Transient.REINST_GAMEOVER_C_0:ExecuteUbergraph_GAMEOVER
+[2018.06.29-22.42.11:767][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f00687600, Size=296
+[2018.06.29-22.42.11:767][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f00687600, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_6:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.29-22.42.11:777][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f007364a0, Size=4, Default__GAMEOVER_C Function /Game/UI/GAMEOVER.GAMEOVER_C:ExecuteUbergraph_GAMEOVER
+[2018.06.29-22.42.11:780][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f0053fec0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.29-22.42.11:842][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f00585d00, Size=616, Default__maca_normal_C Function /Game/Objetos/maca_normal.maca_normal_C:ExecuteUbergraph_maca_normal
+[2018.06.29-22.42.11:863][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f00585d00, Size=616
+[2018.06.29-22.42.11:863][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f00585d00, Size=616, Default__maca_normal_C Function /Engine/Transient.REINST_maca_normal_C_9:ExecuteUbergraph_maca_normal
+[2018.06.29-22.42.11:871][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f006bb100, Size=616, Default__maca_normal_C Function /Game/Objetos/maca_normal.maca_normal_C:ExecuteUbergraph_maca_normal
+[2018.06.29-22.42.12:154][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f02aa7d90, Size=24, Default__START_C Function /Game/UI/START.START_C:ExecuteUbergraph_START
+[2018.06.29-22.42.12:157][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f02aa7d90, Size=24
+[2018.06.29-22.42.12:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f02aa7d90, Size=24, Default__START_C Function /Engine/Transient.REINST_START_C_1:ExecuteUbergraph_START
+[2018.06.29-22.42.12:158][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f02aa72b0, Size=24, Default__START_C Function /Game/UI/START.START_C:ExecuteUbergraph_START
+[2018.06.29-22.42.12:181][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f02ade480, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.29-22.42.12:183][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f02ade480, Size=32
+[2018.06.29-22.42.12:183][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f02ade480, Size=32, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_12:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.29-22.42.12:184][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f02adde00, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.29-22.42.13:529][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [15.241491ms] /Game/RafaGirafa/AnimGir/RAFA_WALK_01.RAFA_WALK_01
+[2018.06.29-22.42.13:882][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.29-22.42.14:820][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.29-22.42.14:854][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f0072a7f0, Size=72
+[2018.06.29-22.42.14:854][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f00687600, Size=296
+[2018.06.29-22.42.14:854][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f00737bc8, Size=4
+[2018.06.29-22.42.14:854][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f00585d00, Size=616
+[2018.06.29-22.42.14:854][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f02aa7d90, Size=24
+[2018.06.29-22.42.14:854][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f02ade480, Size=32
+[2018.06.29-22.42.14:861][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.29-22.42.14:938][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77,512ms to complete.
+[2018.06.29-22.42.14:938][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.400
+[2018.06.29-22.42.15:115][  0]LogCollectionManager: Loaded 0 collections in 0.002419 seconds
+[2018.06.29-22.42.15:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/juaia/Documents/GitHub/Rafa-game/Saved/Collections/' took 0.01s
+[2018.06.29-22.42.15:161][  0]LogFileCache: Scanning file cache for directory 'C:/Users/juaia/Documents/GitHub/Rafa-game/Content/Developers/juaia/Collections/' took 0.01s
+[2018.06.29-22.42.15:161][  0]LogFileCache: Scanning file cache for directory 'C:/Users/juaia/Documents/GitHub/Rafa-game/Content/Collections/' took 0.01s
+[2018.06.29-22.42.15:161][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.29-22.42.15:170][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2452 classes and 558 folders.
+[2018.06.29-22.42.15:177][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.29-22.42.15:890][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.29-22.42.15:896][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.29-22.42.15:919][  0]LogSlate: Took 0.006185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.29-22.42.15:935][  0]LogSlate: Took 0.014322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.29-22.42.15:957][  0]LogSlate: Took 0.012508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.29-22.42.16:075][  0]LogRenderer: Reallocating scene render targets to support 692x372 Format 10 NumSamples 1 (Frame:1).
+[2018.06.29-22.42.16:372][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.29-22.42.16:372][  0]LogLoad: (Engine Initialization) Total time: 49.07 seconds
+[2018.06.29-22.42.16:372][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.29-22.42.16:382][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.29-22.42.16:425][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.29-22.42.16:464][  0]LogSlate: Took 0.016064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.29-22.42.16:510][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/juaia/Documents/GitHub/Rafa-game/Content/' took 0.12s
+[2018.06.29-22.42.16:527][  1]LogAssetRegistry: Asset discovery search completed in 33.4580 seconds
+[2018.06.29-22.42.16:528][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.29-22.42.16:528][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.06.29-22.42.17:429][ 35]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.29-22.43.16:426][572]LogHttp: Warning: 0000018F00756C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.29-22.43.16:426][572]LogHttp: Warning: 0000018F00756C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.29-22.43.16:426][572]LogHttp: Warning: 0000018F00756C80: libcurl info message cache 1 (Closing connection 0)
+[2018.06.29-22.45.16:450][774]LogHttp: Warning: 0000018F00756E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.29-22.45.16:450][774]LogHttp: Warning: 0000018F00756E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.29-22.45.16:450][774]LogHttp: Warning: 0000018F00756E00: libcurl info message cache 1 (Closing connection 1)
+[2018.06.29-22.46.27:546][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.29-22.46.27:988][995]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.06.29-22.46.28:250][995]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f10165ac8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.29-22.46.28:251][995]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018f10165ac0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.29-22.46.29:847][995]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.29-22.46.30:228][995]LogRenderer: Reallocating scene render targets to support 1016x612 Format 10 NumSamples 1 (Frame:1).
+[2018.06.29-22.46.35:596][282]LogSlate: Window 'maca_normal' being destroyed
+[2018.06.29-22.47.16:951][500]LogHttp: Warning: 0000018F99F32980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.29-22.47.16:951][500]LogHttp: Warning: 0000018F99F32980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.29-22.47.16:951][500]LogHttp: Warning: 0000018F99F32980: libcurl info message cache 1 (Closing connection 2)
+[2018.06.29-22.53.41:477][963]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\juaia\Documents\FAUUSP\Computação Gráfica\RAFA_DEPE_01.fbx)
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: NodeAttribute, ItemCount : 44
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: Model, ItemCount : 54
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: Geometry, ItemCount : 10
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: AnimationCurveNode, ItemCount : 148
+[2018.06.29-22.53.41:700][963]LogFbx: ItemName: AnimationCurve, ItemCount : 117
+[2018.06.29-22.53.41:763][963]LogFbx: Loading FBX Scene from C:\Users\juaia\Documents\FAUUSP\Computação Gráfica\RAFA_DEPE_01.fbx
+[2018.06.29-22.53.41:817][963]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.29-22.57.25:397][963]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2018.06.29-22.57.36:198][369]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/juaia/Documents/FAUUSP/Computação Gráfica/RAFA_DEPE_01.fbx)
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: NodeAttribute, ItemCount : 44
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: Model, ItemCount : 54
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: Geometry, ItemCount : 10
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: AnimationCurveNode, ItemCount : 148
+[2018.06.29-22.57.36:206][369]LogFbx: ItemName: AnimationCurve, ItemCount : 117
+[2018.06.29-22.57.36:213][369]LogFbx: Loading FBX Scene from ../../../../../../Users/juaia/Documents/FAUUSP/Computação Gráfica/RAFA_DEPE_01.fbx
+[2018.06.29-22.57.36:250][369]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.29-22.57.42:019][369]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2018.06.29-22.59.04:084][807]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\juaia\Documents\FAUUSP\Computação Gráfica\RAFA_DEPE_01.fbx)
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: NodeAttribute, ItemCount : 44
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: Model, ItemCount : 54
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: Geometry, ItemCount : 10
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: AnimationCurveNode, ItemCount : 148
+[2018.06.29-22.59.04:092][807]LogFbx: ItemName: AnimationCurve, ItemCount : 117
+[2018.06.29-22.59.04:097][807]LogFbx: Loading FBX Scene from C:\Users\juaia\Documents\FAUUSP\Computação Gráfica\RAFA_DEPE_01.fbx
+[2018.06.29-22.59.04:121][807]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.29-23.01.07:137][807]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2018.06.29-23.01.07:192][807]LogFbx: Loading FBX Scene from C:\Users\juaia\Documents\FAUUSP\Computação Gráfica\RAFA_DEPE_01.fbx
+[2018.06.29-23.01.07:220][807]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.29-23.01.07:296][807]LogFbx: SortedLinks :(0) principal
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(1) Coluna1
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(2) Coluna2
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(3) Coluna3
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(4) Coluna5
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(5) FD__Leg1
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(6) FD__Leg2
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(7) FD__Leg3
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(8) FD__Leg4
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(9) pescoso_01
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(10) pescoso_02
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(11) pescoso_03
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(12) pescoso_04
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(13) cabeca_01
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(14) cabeca_02
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(15) D_EYE
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(16) E_EYE
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(17) ikHandle13
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(18) FE_Leg1
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(19) FE_Leg2
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(20) FE_Leg3
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(21) FE_Leg4
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(22) rabo1
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(23) rabo2
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(24) TD_leg1
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(25) TD_leg2
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(26) TD_leg3
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(27) TD_leg4
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(28) TE_leg1
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(29) TE_leg2
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(30) TE_leg3
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(31) TE_leg4
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(32) ikHandle4
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(33) ikHandle11
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(34) ikHandle8
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(35) ikHandle5
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(36) ikHandle9
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(37) ikHandle12
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(38) ikHandle10
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(39) ikHandle15
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(40) ikHandle14
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(41) ikHandle16
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(42) ikHandle17
+[2018.06.29-23.01.07:297][807]LogFbx: SortedLinks :(43) ikHandle18
+[2018.06.29-23.01.07:301][807]LogFbx: Parsing AnimStack Take 001
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:343][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.01.07:344][807]FBXImport: Error: Import failed. 
+[2018.06.29-23.01.13:070][807]LogSlate: Window 'Mensagem' being destroyed
+[2018.06.29-23.01.13:074][807]LogAssetTools: Warning: Failed to import 'C:\Users\juaia\Documents\FAUUSP\Computação Gráfica\RAFA_DEPE_01.fbx'. Failed to create asset '/Game/RafaGirafa/AnimGir/RAFA_DEPE_01'.
+Please see Output Log for details.
+[2018.06.29-23.01.26:468][173]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2018.06.29-23.01.26:478][173]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2018.06.29-23.03.14:779][471]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.29-23.03.14:823][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-23.03.14:860][471]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.06.29-23.03.15:214][471]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.29-23.03.15:957][471]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.06.29-23.03.16:003][471]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.29-23.03.52:010][255]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2018.06.29-23.04.31:284][751]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2018.06.29-23.04.31:372][751]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RafaGirafa/AnimGir/RAFA_STAND_Anim.RAFA_STAND_Anim
+[2018.06.29-23.04.31:401][751]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RAFA_STAND_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.29-23.04.49:596][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RafaGirafa/AnimGir/RAFA_STAND_Anim" FILE="../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RAFA_STAND_Anim.uasset" SILENT=true
+[2018.06.29-23.04.49:610][324]LogSavePackage: Save=11.13ms
+[2018.06.29-23.04.49:610][324]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/RAFA_STAND_Anim6A0A58444D03BC55F4443090EB08ABE5.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RAFA_STAND_Anim.uasset'
+[2018.06.29-23.04.49:617][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RAFA_STAND_Anim.uasset
+[2018.06.29-23.04.52:386][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RafaGirafa/AnimGir/RAFA_STAND_Anim" FILE="../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RAFA_STAND_Anim.uasset" SILENT=true
+[2018.06.29-23.04.52:453][413]LogSavePackage: Save=3.84ms
+[2018.06.29-23.04.52:453][413]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/RAFA_STAND_AnimBE09DBA54D10E99A1599CABEE5FB242B.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RAFA_STAND_Anim.uasset'
+[2018.06.29-23.04.52:457][413]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RAFA_STAND_Anim.uasset
+[2018.06.29-23.04.55:235][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-23.05.00:606][736]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-23.05.17:677][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.06.29-23.05.17:949][290]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.06.29-23.05.18:366][290]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.29-23.05.37:017][916]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fcef58e78, Size=4, Default__SKEL_RafaBlueprint_C Function /Game/RafaGirafa/AnimGir/RafaBlueprint.SKEL_RafaBlueprint_C:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-23.05.42:379][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fcef58e78, Size=4
+[2018.06.29-23.05.42:379][115]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fcef58e78, Size=4, Default__SKEL_RafaBlueprint_C Function /Engine/Transient.REINST_SKEL_RafaBlueprint_C_2:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-23.05.42:384][115]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fcef581d8, Size=4, Default__SKEL_RafaBlueprint_C Function /Game/RafaGirafa/AnimGir/RafaBlueprint.SKEL_RafaBlueprint_C:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-23.05.48:515][344]BlueprintLog: New page: Compilar RafaBlueprint
+[2018.06.29-23.05.48:527][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fcef581d8, Size=4
+[2018.06.29-23.05.48:527][344]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fcef581d8, Size=4, Default__SKEL_RafaBlueprint_C Function /Engine/Transient.REINST_SKEL_RafaBlueprint_C_3:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-23.05.48:535][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018f006b0950, Size=72
+[2018.06.29-23.05.48:535][344]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fcf753e20, Size=72, Default__RafaBlueprint_C Function /Engine/Transient.REINST_RafaBlueprint_C_4:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-23.05.48:544][344]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fd5504770, Size=72, Default__RafaBlueprint_C Function /Game/RafaGirafa/AnimGir/RafaBlueprint.RafaBlueprint_C:ExecuteUbergraph_RafaBlueprint
+[2018.06.29-23.05.48:736][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fcef58e78, Size=4
+[2018.06.29-23.05.48:736][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fcef581d8, Size=4
+[2018.06.29-23.05.52:151][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RafaGirafa/AnimGir/RafaBlueprint" FILE="../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RafaBlueprint.uasset" SILENT=true
+[2018.06.29-23.05.52:216][467]LogSavePackage: Save=47.51ms
+[2018.06.29-23.05.52:216][467]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/RafaBlueprint27DD688F43C69842A6CEEC9D64CA5253.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RafaBlueprint.uasset'
+[2018.06.29-23.05.52:223][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Content/RafaGirafa/AnimGir/RafaBlueprint.uasset
+[2018.06.29-23.05.56:939][625]LogSlate: Took 0.013262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.29-23.05.59:349][756]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.29-23.05.59:368][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.29-23.05.59:369][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.29-23.05.59:480][756]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (29/06/2018 17:05:59)
+[2018.06.29-23.05.59:480][756]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.29-23.05.59:660][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180296s)
+[2018.06.29-23.05.59:661][756]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.29-23.05.59:661][756]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2018.06.29-23.05.59:661][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.182076s)
+[2018.06.29-23.05.59:693][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fcf753e20, Size=72
+[2018.06.29-23.05.59:696][756]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.29-23.05.59:810][756]LogInit: FAudioDevice initialized.
+[2018.06.29-23.05.59:884][756]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fb9e3a968, Size=24, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.06.29-23.05.59:886][756]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fb9e3a968, Size=24
+[2018.06.29-23.05.59:886][756]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fb9e3a968, Size=24, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_31:ExecuteUbergraph_ThirdPersonGameMode
+[2018.06.29-23.05.59:887][756]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018fb9e3a0b0, Size=24, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.06.29-23.05.59:895][756]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.29-23.05.59:998][756]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.29-20.05.59
+[2018.06.29-23.06.00:014][756]LogWorld: Bringing up level for play took: 0.118248
+[2018.06.29-23.06.00:047][756]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.06.29-23.06.00:069][756]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,017
+[2018.06.29-23.06.00:070][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.29-23.06.35:938][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.29-23.06.36:037][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.29-23.06.36:081][841]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018fb9e3a968, Size=24
+[2018.06.29-23.06.36:813][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.29-23.07.14:654][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_2.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.06.29-23.07.14:677][496]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_2.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.06.29-23.07.15:033][496]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.29-23.07.27:361][757]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.29-23.07.27:567][757]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.29-23.07.32:056][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.06.29-23.07.32:084][799]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2018.06.29-23.07.32:422][799]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.29-23.08.07:700][664]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_4.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.06.29-23.08.07:735][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_4.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2018.06.29-23.08.14:809][140]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.06.29-23.08.14:840][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_5.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.06.29-23.08.32:233][685]LogSlate: Window 'RAFA_WALK_01_PhysicsAsset' being destroyed
+[2018.06.29-23.09.50:794][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.29-23.10.07:733][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.29-23.11.20:361][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.027
+[2018.06.29-23.11.20:376][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.06.29-23.11.20:400][629]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.06.29-23.11.20:400][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.06.29-23.11.20:502][629]LogSavePackage: Save=79.63ms
+[2018.06.29-23.11.20:502][629]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/ThirdPersonCharacter_Auto19A73B77643150216EB675DB19F69BF80.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.06.29-23.11.20:519][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.06.29-23.11.20:533][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RafaGirafa/AnimGir/RafaBlueprint] ([1] browsable assets)...
+[2018.06.29-23.11.20:560][629]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/RafaGirafa/AnimGir/RafaBlueprint.RafaBlueprint]
+[2018.06.29-23.11.20:560][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/RafaGirafa/AnimGir/RafaBlueprint]
+[2018.06.29-23.11.20:627][629]LogSavePackage: Save=48.50ms
+[2018.06.29-23.11.20:627][629]LogSavePackage: Moving '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/RafaBlueprint_Auto1FB246DB948DFACE71F36A5AFA850D59D.tmp' to '../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/RafaGirafa/AnimGir/RafaBlueprint_Auto1.uasset'
+[2018.06.29-23.11.20:639][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/juaia/Documents/GitHub/Rafa-game/Saved/Autosaves/Game/RafaGirafa/AnimGir/RafaBlueprint_Auto1.uasset
+[2018.06.29-23.11.20:639][629]LogFileHelpers: Auto-saving content packages took 0.276
+[2018.06.29-23.11.33:730][726]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\juaia\Downloads\RAFA_ACABA.fbx)
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: NodeAttribute, ItemCount : 44
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: Model, ItemCount : 55
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: Geometry, ItemCount : 11
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: Material, ItemCount : 1
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: AnimationCurveNode, ItemCount : 145
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: Deformer, ItemCount : 32
+[2018.06.29-23.11.33:738][726]LogFbx: ItemName: Video, ItemCount : 1
+[2018.06.29-23.11.33:743][726]LogFbx: Loading FBX Scene from C:\Users\juaia\Downloads\RAFA_ACABA.fbx
+[2018.06.29-23.11.33:857][726]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.29-23.12.53:042][726]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2018.06.29-23.12.53:104][726]LogFbx: Loading FBX Scene from C:\Users\juaia\Downloads\RAFA_ACABA.fbx
+[2018.06.29-23.12.53:131][726]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.29-23.12.53:182][726]LogFbx: =================================================
+[2018.06.29-23.12.53:182][726]LogFbx: Dumping Node START [RAFA_ESQUELETO] 
+[2018.06.29-23.12.53:182][726]LogFbx: 	Total Deformer Count -2122548080.
+[2018.06.29-23.12.53:182][726]LogFbx: 		[Node 1]  (Type Skin).
+[2018.06.29-23.12.53:182][726]LogFbx: =================================================
+[2018.06.29-23.12.53:182][726]LogFbx: 	Attribute () Type (4).
+[2018.06.29-23.12.53:182][726]LogFbx: 		[Node Attribute Child 1] RAFA_ESQUELETO (Type Mesh).
+[2018.06.29-23.12.53:182][726]LogFbx: Dumping Node END [RAFA_ESQUELETO]
+[2018.06.29-23.12.53:182][726]LogFbx: =================================================
+[2018.06.29-23.12.53:182][726]LogFbx: Dumping Node START [RAFA_ESQUELETO] 
+[2018.06.29-23.12.53:182][726]LogFbx: 	Total Deformer Count -2122548080.
+[2018.06.29-23.12.53:182][726]LogFbx: 		[Node 1]  (Type Skin).
+[2018.06.29-23.12.53:182][726]LogFbx: =================================================
+[2018.06.29-23.12.53:182][726]LogFbx: 	Attribute () Type (4).
+[2018.06.29-23.12.53:182][726]LogFbx: 		[Node Attribute Child 1] RAFA_ESQUELETO (Type Mesh).
+[2018.06.29-23.12.53:182][726]LogFbx: Dumping Node END [RAFA_ESQUELETO]
+[2018.06.29-23.12.53:209][726]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node RAFA_ESQUELETO : The relative matrices do not match
+[2018.06.29-23.12.53:209][726]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.06.29-23.12.53:210][726]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - RAFA_ESQUELETO
+[2018.06.29-23.12.53:210][726]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.06.29-23.12.53:257][726]LogMaterial: Warning: Material /Game/RafaGirafa/AnimGir/rafa1.rafa1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.29-23.12.53:289][726]LogMaterial: Missing cached shader map for material rafa1, compiling. 
+[2018.06.29-23.12.53:496][726]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.29-23.12.53:496][726]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.29-23.12.53:496][726]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.29-23.12.53:496][726]LogFbxMaterialImport: Warning: Unable to find Texture file /Users/agnesaragaki/Documents/maya/projects/default/images/outUV_rafa_cor.png
+[2018.06.29-23.12.53:511][726]LogMaterial: Missing cached shader map for material rafa1, compiling. 
+[2018.06.29-23.12.53:590][726]LogFbx: Triangulating skeletal mesh RAFA_ESQUELETO
+[2018.06.29-23.12.53:999][726]LogFbx: Warning: Bones digested - 44  Depth of hierarchy - 11
+[2018.06.29-23.12.54:573][726]LogSkeletalMesh: Section 0: 2382 vertices, 31 active bones
+[2018.06.29-23.12.54:583][726]LogSkeletalMesh: Section 0: Material=0, 1962 triangles
+[2018.06.29-23.12.54:594][726]LogSkeletalMesh: Building Skeletal Mesh RAFA_ACABA...
+[2018.06.29-23.12.54:619][726]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/RafaGirafa/AnimGir/RAFA_ACABA.RAFA_ACABA
+[2018.06.29-23.12.54:641][726]LogLinker: Não é possível encontrar o arquivo “/Game/RafaGirafa/AnimGir/RAFA_ACABA_PhysicsAsset”
+[2018.06.29-23.12.54:642][726]LogLinker: Não é possível encontrar o arquivo “/Game/RafaGirafa/AnimGir/RAFA_ACABA_PhysicsAsset”
+[2018.06.29-23.12.54:686][726]LogFbx: =================================================
+[2018.06.29-23.12.54:686][726]LogFbx: Dumping Node START [RAFA_ESQUELETO] 
+[2018.06.29-23.12.54:686][726]LogFbx: 	Total Deformer Count -2110702288.
+[2018.06.29-23.12.54:686][726]LogFbx: 		[Node 1]  (Type Skin).
+[2018.06.29-23.12.54:686][726]LogFbx: =================================================
+[2018.06.29-23.12.54:686][726]LogFbx: 	Attribute () Type (4).
+[2018.06.29-23.12.54:686][726]LogFbx: 		[Node Attribute Child 1] RAFA_ESQUELETO (Type Mesh).
+[2018.06.29-23.12.54:686][726]LogFbx: Dumping Node END [RAFA_ESQUELETO]
+[2018.06.29-23.12.54:687][726]LogFbx: =================================================
+[2018.06.29-23.12.54:687][726]LogFbx: Dumping Node START [RAFA_ESQUELETO] 
+[2018.06.29-23.12.54:687][726]LogFbx: 	Total Deformer Count -2110702288.
+[2018.06.29-23.12.54:687][726]LogFbx: 		[Node 1]  (Type Skin).
+[2018.06.29-23.12.54:687][726]LogFbx: =================================================
+[2018.06.29-23.12.54:687][726]LogFbx: 	Attribute () Type (4).
+[2018.06.29-23.12.54:687][726]LogFbx: 		[Node Attribute Child 1] RAFA_ESQUELETO (Type Mesh).
+[2018.06.29-23.12.54:687][726]LogFbx: Dumping Node END [RAFA_ESQUELETO]
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(0) principal
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(1) Coluna1
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(2) Coluna2
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(3) Coluna3
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(4) Coluna5
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(5) FD__Leg1
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(6) FD__Leg2
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(7) FD__Leg3
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(8) FD__Leg4
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(9) pescoso_01
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(10) pescoso_02
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(11) pescoso_03
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(12) pescoso_04
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(13) cabeca_01
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(14) cabeca_02
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(15) D_EYE
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(16) E_EYE
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(17) ikHandle13
+[2018.06.29-23.12.54:687][726]LogFbx: SortedLinks :(18) FE_Leg1
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(19) FE_Leg2
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(20) FE_Leg3
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(21) FE_Leg4
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(22) rabo1
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(23) rabo2
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(24) TD_leg1
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(25) TD_leg2
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(26) TD_leg3
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(27) TD_leg4
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(28) TE_leg1
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(29) TE_leg2
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(30) TE_leg3
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(31) TE_leg4
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(32) ikHandle4
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(33) ikHandle11
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(34) ikHandle8
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(35) ikHandle5
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(36) ikHandle9
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(37) ikHandle12
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(38) ikHandle10
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(39) ikHandle15
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(40) ikHandle14
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(41) ikHandle16
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(42) ikHandle17
+[2018.06.29-23.12.54:688][726]LogFbx: SortedLinks :(43) ikHandle18
+[2018.06.29-23.12.54:693][726]LogFbx: Parsing AnimStack Take 001
+[2018.06.29-23.12.54:695][726]LogLinker: Não é possível encontrar o arquivo “/Game/RafaGirafa/AnimGir/RAFA_ACABA_Anim”
+[2018.06.29-23.12.54:695][726]LogLinker: Não é possível encontrar o arquivo “/Game/RafaGirafa/AnimGir/RAFA_ACABA_Anim”
+[2018.06.29-23.12.54:842][726]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RafaGirafa/AnimGir/RAFA_ACABA_Anim.RAFA_ACABA_Anim
+[2018.06.29-23.12.54:842][726]LogAnimation: Warning: No animation data exists for sequence RAFA_ACABA_Anim (Package /Engine/Transient)
+[2018.06.29-23.12.54:854][726]LoadErrors: Warning: The Animation  RAFA_ACABA_Anim has no animation data. Recommend to remove.
+[2018.06.29-23.12.54:860][726]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RAFA_ACABA_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 0: no translation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 0: no translation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 0: no rotation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 1: no translation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 1: no translation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 1: no rotation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 2: no translation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 2: no translation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 2: no rotation keys
+[2018.06.29-23.12.54:864][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 3: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 3: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 3: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 4: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 4: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 4: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 5: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 5: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 5: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 6: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 6: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 6: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 7: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 7: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 7: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 8: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 8: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 8: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 9: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 9: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 9: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 10: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 10: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 10: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 11: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 11: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 11: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 12: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 12: no translation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 12: no rotation keys
+[2018.06.29-23.12.54:865][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 13: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 13: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 13: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 14: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 14: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 14: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 15: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 15: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 15: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 16: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 16: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 16: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 17: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 17: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 17: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 18: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 18: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 18: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 19: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 19: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 19: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 20: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 20: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 20: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 21: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 21: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 21: no rotation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 22: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 22: no translation keys
+[2018.06.29-23.12.54:866][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 22: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 23: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 23: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 23: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 24: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 24: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 24: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 25: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 25: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 25: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 26: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 26: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 26: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 27: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 27: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 27: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 28: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 28: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 28: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 29: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 29: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 29: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 30: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 30: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 30: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 31: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 31: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 31: no rotation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 32: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 32: no translation keys
+[2018.06.29-23.12.54:867][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 32: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 33: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 33: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 33: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 34: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 34: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 34: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 35: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 35: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 35: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 36: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 36: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 36: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 37: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 37: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 37: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 38: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 38: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 38: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 39: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 39: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 39: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 40: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 40: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 40: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 41: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 41: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 41: no rotation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 42: no translation keys
+[2018.06.29-23.12.54:868][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 42: no translation keys
+[2018.06.29-23.12.54:869][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 42: no rotation keys
+[2018.06.29-23.12.54:869][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 43: no translation keys
+[2018.06.29-23.12.54:869][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 43: no translation keys
+[2018.06.29-23.12.54:869][726]LogAnimationCompression: Warning: When compressing RAFA_ACABA_Anim track 43: no rotation keys
+[2018.06.29-23.12.57:458][726]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.585 s
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: 
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: Ensure condition failed: bCompressionSuccessful [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Animation\AnimCompressionDerivedData.cpp] [Line: 138]
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: Anim Compression failed for Sequence 'AnimSequence /Engine/Transient.RAFA_ACABA_Anim' with compression scheme 'AnimCompress_BitwiseCompressOnly /Engine/Transient.AnimCompress_BitwiseCompressOnly_0': compressed data empty
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: 	AnimIndex: 0
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: 	MaxAnim:1
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: 	AllowAltCompressor:false
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: 	Output:false
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: Stack: 
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009E61B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009E37AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009E38ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009EEAB12A UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x0000000090FE813A UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x0000000090FE72E4 UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x0000000091002DE1 UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x0000000090FF071E UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009EF717E7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009EF71567 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009EF64C6A UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009D1AB7C3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009D1AC3CF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009CDEB0AC UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009CD1BE37 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009CC84FC4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000009CC956F2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000008EBAAC3E UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000008EBA8238 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x000000008CAFB3F6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x00000000BEA455CB UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x00000000BEA1749E UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x00000000BEAAF862 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-23.12.57:458][726]LogOutputDevice: Error: [Callstack] 0x00000000BEA97D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000BEA87F9E UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000E564C5F2 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000E5642307 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FCA52CCB ole32.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE4B46F3 RPCRT4.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE51DE1D RPCRT4.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE465524 RPCRT4.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE803942 combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE79E80B combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE79E485 combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE79EF06 combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE79B182 combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE799FCC combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE7C01FB combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FE7BFB08 combase.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FC2E6CC1 USER32.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FC2E6693 USER32.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000E5651666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000BAA75475 UE4Editor.exe!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000BAA86BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000BAA86C4A UE4Editor.exe!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000BAA94177 UE4Editor.exe!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000BAA95B87 UE4Editor.exe!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FC1C3034 KERNEL32.DLL!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: [Callstack] 0x00000000FEC11431 ntdll.dll!UnknownFunction []
+[2018.06.29-23.12.57:459][726]LogOutputDevice: Error: 
+[2018.06.29-23.12.57:475][726]LogStats:                SubmitErrorReport -  0.000 s
+[2018.06.29-23.13.05:087][726]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.29-23.13.05:149][726]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.29-23.13.05:149][726]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.29-23.13.05:149][726]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.29-23.13.05:149][726]LogStats:                    SendNewReport -  7.675 s
+[2018.06.29-23.13.05:149][726]LogStats:             FDebug::EnsureFailed - 10.281 s
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.06.29-23.13.05:233][726]FBXImport: Warning: The following bones are missing from the bind pose:
+ikHandle13  
+ikHandle4  
+ikHandle11  
+ikHandle8  
+ikHandle5  
+ikHandle9  
+ikHandle12  
+ikHandle10  
+ikHandle15  
+ikHandle14  
+ikHandle16  
+ikHandle17  
+ikHandle18  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.06.29-23.13.05:262][726]LogSkeletalMesh: Building Skeletal Mesh RAFA_ACABA...
+[2018.06.29-23.13.05:270][726]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/RafaGirafa/AnimGir/RAFA_ACABA.RAFA_ACABA
+[2018.06.29-23.13.06:506][728]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
